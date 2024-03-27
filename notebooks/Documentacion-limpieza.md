@@ -39,3 +39,4 @@ VALORES:
 - Hemos corregido errores en la escritura de la columna 'MaritalStatus' (en algunos casos estaba escrito 'marreid' en lugar de 'married')
 - Hemos cambiado los datos tipo 'Not Available' por nulos
 - Hemos pasado los datos de "PercentSalaryHike" a porcentajes como indica su nombre
+-'enviromentsatisfaction' : hemos pasado a nulo los valores que estaban fuera del rango de la categoria definida (1-4)
