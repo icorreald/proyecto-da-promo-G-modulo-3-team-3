@@ -12,6 +12,10 @@ COLUMNAS ELIMINADAS:
 - 'RoleDepartment': los datos de esta columna ya los tenemos por separado en otras dos columnas: JobRole y Departament
 - 'standard_hours' : tiene muchos nulos  y el resto tienen todos el mismo dato : 80.0
 - 'years_in_current_role' : tiene muchos nulos (97.9%) 
+
+COLUMNAS AÑADIDAS:
+- currently_working: tras preguntar a la empresa, sabemos que aquellos employee_number nulos corresponden a antiguos trabajadores. Esta columna añade la información sobre si trabajamos con datos de antiguos o actuales empleados.
+
 DUPLICADOS:
 
 - Hemos eliminado los duplicados exactos (registros totalmente iguales)
