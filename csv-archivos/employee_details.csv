@@ -1,0 +1,1581 @@
+,department,job_role,job_level,job_involvement,years_at_company,years_in_current_role,years_since_last_promotion,years_with_current_manager,training_times_last_year,remote_work,performance_rating,attrition,marital_status,distance_from_home,education,education_field,total_working_years,num_companies_worked
+0,,research director,5,3,20,,15,15,5,True,3.0,False,,6,3,,,7
+1,,manager,5,2,33,,11,9,5,True,3.0,False,,1,4,life sciences,34.0,0
+2,research & development,manager,5,3,22,,11,15,3,True,3.0,False,married,4,2,technical degree,22.0,1
+5,research & development,manager,4,3,22,,4,7,3,True,3.0,False,,22,3,medical,,3
+6,,sales executive,3,3,21,,7,9,3,,3.0,False,,25,3,life sciences,28.0,7
+7,,sales executive,2,3,20,,11,6,3,False,4.0,False,married,1,1,,20.0,1
+9,,research director,5,3,18,,0,11,2,False,3.0,False,,9,3,,21.0,2
+10,,research director,5,1,21,,5,10,3,False,4.0,False,,7,1,,,1
+13,,research director,5,3,22,,15,8,0,False,3.0,True,married,12,3,,,1
+15,,manager,5,3,20,,1,12,2,False,3.0,False,,2,4,,,0
+16,,research director,5,3,31,,13,8,2,False,3.0,True,single,2,4,,40.0,7
+20,research & development,healthcare representative,3,2,23,,14,4,3,False,4.0,False,,1,1,,25.0,3
+21,,research director,3,3,15,,8,12,1,,3.0,False,single,1,2,life sciences,15.0,1
+23,,manager,4,3,26,,3,0,3,False,3.0,False,married,2,2,other,,1
+27,,manufacturing director,2,3,16,,5,12,2,False,3.0,False,single,2,4,life sciences,18.0,9
+29,sales,sales executive,2,3,15,,0,7,3,True,3.0,False,,10,3,life sciences,15.0,1
+30,sales,sales executive,3,3,22,,13,5,3,True,3.0,False,divorced,37,1,,,0
+31,research & development,healthcare representative,3,3,17,,12,11,3,True,4.0,False,,25,3,medical,25.0,2
+32,,manager,5,3,14,,4,8,3,True,3.0,False,,5,3,,26.0,4
+33,,sales executive,2,2,15,,2,8,2,False,,False,single,1,4,marketing,16.0,0
+35,,sales executive,3,3,24,,15,7,2,True,4.0,False,divorced,1,2,,24.0,1
+36,,manager,4,3,17,,1,9,3,True,4.0,False,married,16,3,,22.0,5
+37,research & development,laboratory technician,1,3,15,,10,11,4,,3.0,False,married,6,3,life sciences,16.0,0
+39,,sales executive,3,2,18,,1,12,2,False,4.0,False,married,5,4,,20.0,5
+40,,manufacturing director,2,2,14,,6,8,3,False,3.0,False,married,4,3,,14.0,1
+42,,manager,4,3,17,,15,2,3,False,3.0,False,divorced,2,2,medical,22.0,6
+43,,laboratory technician,1,4,17,,15,14,1,True,3.0,True,single,16,4,,18.0,1
+44,,research scientist,2,2,16,,1,7,2,False,4.0,False,divorced,8,4,life sciences,,8
+45,,sales executive,2,3,15,,5,8,3,True,3.0,False,married,1,4,,16.0,0
+46,,healthcare representative,3,2,13,,12,8,1,,4.0,False,single,1,4,,23.0,3
+47,,manager,4,3,25,,4,12,3,True,3.0,False,married,26,2,,25.0,1
+48,,research scientist,1,3,17,,5,7,3,True,3.0,False,single,1,3,life sciences,,1
+49,,sales executive,2,2,13,12.0,11,9,2,,3.0,False,married,8,2,technical degree,,1
+51,,manager,4,3,13,,5,1,2,True,3.0,False,,3,3,life sciences,23.0,8
+53,,manager,5,2,16,,6,14,2,True,3.0,False,married,6,3,medical,21.0,7
+54,,healthcare representative,2,3,13,,1,9,2,True,,False,divorced,1,4,life sciences,,1
+56,,research scientist,2,1,13,,1,9,3,True,3.0,False,,6,3,medical,17.0,7
+57,,manufacturing director,2,3,15,,5,11,2,False,3.0,False,,26,4,medical,16.0,1
+59,,sales executive,3,2,12,,2,11,2,True,,False,married,4,4,,15.0,7
+60,,laboratory technician,2,3,13,,3,7,3,True,3.0,False,single,5,2,,16.0,8
+61,,research scientist,2,3,13,,10,7,2,False,3.0,False,married,25,5,,15.0,3
+62,,research scientist,2,1,17,,11,8,3,True,3.0,False,,6,4,,,1
+63,,healthcare representative,2,3,13,,4,7,2,False,4.0,False,divorced,6,3,life sciences,15.0,3
+64,research & development,manufacturing director,4,3,12,,1,5,2,False,3.0,False,married,24,3,,22.0,3
+65,,healthcare representative,3,2,15,11.0,4,8,3,True,,False,single,4,4,,27.0,7
+66,sales,sales executive,4,4,12,,11,11,2,True,3.0,False,married,28,3,,,3
+67,,research scientist,2,3,20,,13,17,3,True,4.0,False,single,29,4,,,1
+68,,healthcare representative,2,4,12,,11,8,0,,4.0,False,,25,1,,15.0,5
+72,,healthcare representative,4,2,15,,2,12,3,True,3.0,False,,6,1,life sciences,,2
+73,,research scientist,2,3,13,,2,9,4,,3.0,False,,1,3,life sciences,19.0,7
+74,,laboratory technician,1,4,14,,2,13,6,,3.0,False,,21,3,,14.0,1
+76,research & development,research scientist,2,2,20,,0,7,3,False,3.0,False,divorced,8,3,,20.0,1
+77,,research director,3,4,16,,6,8,2,True,4.0,False,,10,3,life sciences,16.0,1
+78,,healthcare representative,2,2,11,,10,8,3,True,,False,married,2,3,,11.0,1
+79,,sales executive,4,3,37,,1,8,1,True,3.0,False,single,18,4,,38.0,0
+80,,manager,3,2,11,,5,8,6,False,3.0,False,single,5,3,,14.0,2
+82,,sales executive,3,3,16,,5,13,6,True,3.0,False,divorced,3,3,life sciences,,0
+84,,manager,5,3,36,,4,13,2,True,3.0,False,single,1,3,medical,37.0,0
+89,,manufacturing director,2,3,13,,3,12,5,True,3.0,False,married,30,2,,13.0,1
+90,research & development,manager,4,2,27,,15,7,2,,3.0,False,marreid,27,4,life sciences,28.0,0
+91,,manufacturing director,3,2,13,,4,8,2,False,,False,married,25,3,technical degree,,3
+93,research & development,healthcare representative,3,3,16,,10,1,3,True,,False,divorced,25,4,,,1
+95,sales,sales executive,2,2,15,,4,12,2,False,3.0,False,married,9,4,life sciences,15.0,1
+96,research & development,research scientist,1,3,14,,4,10,5,False,3.0,False,married,9,3,medical,15.0,0
+98,,manager,5,1,24,,1,11,2,,3.0,True,,13,3,marketing,26.0,2
+100,,sales representative,1,3,11,,5,7,4,False,4.0,False,,7,2,technical degree,12.0,0
+101,research & development,research director,4,2,14,,6,11,3,True,4.0,False,,15,2,,,1
+102,,laboratory technician,2,2,15,,4,13,3,False,3.0,False,,5,2,medical,,1
+103,,human resources,1,3,11,,3,8,3,True,3.0,False,divorced,2,3,,13.0,5
+105,research & development,research scientist,2,2,15,,6,11,3,False,3.0,False,married,22,4,other,16.0,1
+106,,sales executive,3,3,14,,5,7,3,True,3.0,False,,31,4,,14.0,1
+107,,manufacturing director,3,4,10,,8,8,1,False,3.0,False,divorced,21,4,life sciences,10.0,1
+109,human resources,human resources,2,3,11,,4,7,2,False,3.0,False,married,9,3,,,0
+110,,laboratory technician,2,3,17,,0,15,2,True,3.0,False,,9,3,life sciences,20.0,8
+111,,sales executive,3,3,10,,7,4,2,,3.0,False,,5,3,,,2
+112,,laboratory technician,2,3,12,,6,10,4,True,,False,,9,3,,12.0,1
+113,,manufacturing director,2,2,10,,1,9,2,False,3.0,False,married,29,1,,10.0,1
+115,,manufacturing director,2,2,11,,5,9,3,True,3.0,False,,39,4,life sciences,13.0,6
+116,,sales executive,3,3,11,,6,9,3,True,3.0,False,married,16,3,,12.0,0
+118,,manager,4,3,21,,11,10,3,True,,False,married,10,1,,21.0,1
+120,research & development,manager,5,2,21,,13,3,2,,3.0,False,married,7,2,,,1
+121,,research scientist,2,3,10,,9,8,3,,3.0,False,,8,4,,12.0,9
+122,sales,sales executive,2,2,10,,1,2,2,True,3.0,False,,5,3,marketing,10.0,1
+124,,sales executive,3,2,13,,1,12,2,,3.0,False,married,3,4,medical,16.0,4
+125,,sales executive,3,2,10,,9,0,2,,3.0,False,married,2,2,,10.0,1
+126,,manager,4,3,10,,7,7,2,True,4.0,False,single,18,5,,37.0,3
+127,,sales executive,2,3,11,,6,9,2,True,3.0,False,,1,3,,15.0,9
+129,,research scientist,2,3,10,,6,9,3,True,,False,divorced,6,2,,18.0,3
+130,,research director,5,2,31,,0,9,5,True,3.0,False,,18,4,life sciences,,1
+131,research & development,research scientist,1,3,10,,8,8,4,True,3.0,False,married,1,5,,,1
+132,,research scientist,1,3,10,,7,8,2,False,3.0,True,single,1,4,other,10.0,1
+133,research & development,research director,3,3,13,,3,7,3,,3.0,False,married,7,3,medical,,0
+134,,research director,4,3,12,,3,8,0,True,3.0,False,,23,4,,33.0,6
+135,,laboratory technician,3,3,26,,1,7,3,False,3.0,False,married,8,2,other,29.0,4
+136,,sales executive,3,3,10,,0,8,2,False,3.0,False,,21,4,,,6
+137,,healthcare representative,3,2,19,,1,9,4,False,3.0,False,married,17,1,life sciences,20.0,0
+138,sales,manager,4,3,12,,4,9,3,False,3.0,False,married,3,1,marketing,,3
+140,,sales executive,4,3,21,,13,14,2,True,,True,single,15,3,life sciences,,0
+141,,healthcare representative,2,2,13,,4,9,3,True,4.0,False,single,1,3,,14.0,0
+144,,healthcare representative,2,2,10,,1,8,2,False,,False,single,24,3,medical,10.0,1
+145,,manager,5,3,22,,3,10,5,,3.0,False,married,5,3,,26.0,7
+146,,healthcare representative,4,2,33,,15,0,3,False,3.0,False,divorced,8,1,,,1
+147,,manager,5,4,25,,14,13,4,False,3.0,False,divorced,4,2,life sciences,,1
+149,,manager,4,2,19,,15,2,4,False,3.0,False,divorced,13,4,,,6
+150,,manager,5,1,19,,9,11,5,,,False,,2,2,medical,23.0,4
+151,,manager,4,3,33,,0,10,2,,3.0,False,,5,3,life sciences,,1
+152,,manufacturing director,3,2,10,,5,9,0,,3.0,True,marreid,14,4,medical,,7
+154,human resources,human resources,3,2,10,,0,9,3,False,3.0,False,single,17,3,,,1
+155,,sales executive,2,1,13,,3,12,2,True,,False,single,3,3,other,15.0,3
+156,,laboratory technician,1,3,12,,5,8,3,True,3.0,False,,9,2,,12.0,1
+158,,sales executive,2,2,15,,10,10,2,False,4.0,True,single,24,4,,16.0,0
+159,,manager,4,3,14,,1,12,2,True,,False,,11,4,medical,26.0,3
+160,,sales executive,3,2,10,,8,6,3,False,3.0,False,,1,3,,,1
+161,,laboratory technician,1,3,10,,1,5,3,,3.0,False,single,3,1,medical,,1
+162,,laboratory technician,2,4,10,,6,8,3,,,False,,28,3,life sciences,,1
+163,,sales executive,2,3,11,,6,7,2,,4.0,True,,12,4,other,13.0,3
+164,,research scientist,1,2,10,,8,7,3,True,3.0,False,married,19,3,life sciences,10.0,1
+165,,sales executive,2,3,10,,8,8,3,False,3.0,False,,2,3,,10.0,1
+168,,healthcare representative,3,3,10,,0,9,1,True,3.0,False,married,11,3,life sciences,10.0,1
+170,research & development,research scientist,2,2,20,,3,7,2,,3.0,False,single,23,2,,20.0,1
+171,,laboratory technician,2,3,10,,9,4,2,,,False,married,11,3,technical degree,10.0,1
+172,research & development,laboratory technician,1,3,10,,9,8,4,True,3.0,True,married,7,2,technical degree,14.0,8
+173,,sales executive,4,2,20,,9,6,2,True,3.0,False,,33,1,marketing,,0
+176,,laboratory technician,2,3,12,,3,7,2,True,4.0,False,,1,2,,12.0,1
+178,research & development,manufacturing director,2,3,9,,7,8,3,True,4.0,False,married,1,3,medical,9.0,1
+179,,laboratory technician,2,2,10,,3,0,1,False,3.0,False,married,1,1,life sciences,,1
+180,sales,sales executive,3,2,9,,4,7,3,False,3.0,True,,9,2,medical,9.0,1
+181,,sales executive,2,2,11,,2,7,4,False,3.0,False,,4,2,,11.0,1
+182,,sales executive,2,3,11,,5,7,0,True,3.0,False,single,6,4,,12.0,1
+184,,sales executive,3,3,9,,3,7,2,True,3.0,False,single,8,3,marketing,9.0,1
+185,research & development,research scientist,1,3,9,,1,8,2,True,3.0,False,divorced,34,3,life sciences,,4
+186,,manager,5,3,20,,9,9,2,False,3.0,False,,4,1,medical,21.0,1
+187,,manager,4,2,20,,11,8,1,True,4.0,False,married,2,2,,22.0,9
+188,,sales executive,3,1,14,,9,8,2,False,3.0,True,married,4,4,,14.0,1
+189,research & development,manufacturing director,3,2,11,,5,8,2,True,4.0,False,,1,1,life sciences,,1
+190,,research director,3,3,10,,0,7,1,,3.0,False,,11,3,,,1
+192,,research scientist,2,3,9,,4,7,3,False,3.0,False,,24,2,technical degree,,1
+194,,sales executive,2,2,13,,4,8,3,,3.0,False,married,7,3,life sciences,13.0,1
+195,,research director,3,2,10,,0,1,2,True,3.0,False,,25,2,life sciences,,3
+196,,research scientist,2,3,10,,1,9,2,True,3.0,False,married,28,2,,11.0,1
+197,,manager,5,3,21,,1,6,3,,3.0,False,,1,1,,21.0,1
+198,,manager,5,3,29,,11,10,5,,3.0,False,,7,3,life sciences,33.0,5
+199,,sales executive,3,3,9,,7,8,3,,3.0,False,,22,4,other,10.0,0
+200,research & development,manufacturing director,3,3,13,,0,8,6,True,4.0,False,divorced,9,1,,,1
+201,,research scientist,1,3,10,,9,7,3,False,3.0,True,single,3,3,life sciences,,1
+202,,laboratory technician,1,4,20,,3,8,3,True,,False,married,28,1,medical,20.0,1
+203,research & development,laboratory technician,2,3,10,,4,7,2,True,,False,,24,4,life sciences,10.0,1
+204,,manufacturing director,2,3,9,,7,8,3,,3.0,False,,29,3,,10.0,1
+205,sales,sales executive,3,3,9,,7,7,3,False,3.0,True,married,11,3,marketing,,1
+206,,research director,3,2,9,,0,8,3,True,3.0,False,divorced,5,1,,,1
+208,research & development,manufacturing director,4,2,9,,0,0,3,False,4.0,False,married,26,4,,31.0,3
+209,,sales executive,2,3,10,,5,3,3,True,3.0,False,,5,2,life sciences,10.0,1
+210,,healthcare representative,2,3,16,,4,11,2,False,3.0,False,,14,1,life sciences,,0
+213,,manager,4,3,9,,7,8,2,True,3.0,False,married,1,2,life sciences,26.0,2
+214,,manager,4,3,10,,6,0,2,False,3.0,False,single,17,3,,10.0,1
+215,,laboratory technician,2,3,9,,0,8,2,True,3.0,False,,23,2,life sciences,9.0,1
+216,research & development,manufacturing director,3,2,14,,7,8,2,True,3.0,False,,12,5,,15.0,0
+217,,sales executive,4,2,9,,2,3,3,False,3.0,False,,8,4,,22.0,6
+219,,laboratory technician,1,3,10,,0,8,5,False,3.0,False,married,6,1,,,1
+220,research & development,manufacturing director,2,2,14,,3,11,2,True,3.0,False,married,1,3,life sciences,14.0,1
+223,,laboratory technician,2,1,9,,7,5,6,True,3.0,False,married,1,3,,10.0,0
+224,,sales executive,3,3,10,,9,6,5,,3.0,False,,2,4,,10.0,1
+225,,manager,4,3,20,,2,10,3,False,,False,,2,1,life sciences,21.0,0
+226,,research scientist,2,3,9,,8,8,4,,3.0,False,single,2,3,life sciences,9.0,1
+227,,sales executive,2,3,10,,9,6,6,True,3.0,False,single,15,2,medical,,1
+228,,research director,5,3,9,,1,5,3,False,4.0,False,,1,3,,,3
+229,,manufacturing director,3,4,10,,4,7,2,True,3.0,True,,1,5,,,1
+231,,research director,4,4,9,,8,8,2,,3.0,False,single,2,3,medical,35.0,4
+232,research & development,research director,4,3,14,,6,9,3,True,3.0,False,,15,3,,16.0,7
+234,,research scientist,2,3,10,,3,7,2,True,3.0,False,married,13,3,,,1
+235,,healthcare representative,3,3,20,,13,9,3,,3.0,False,,2,3,,24.0,2
+236,,healthcare representative,3,3,10,,7,7,4,True,3.0,False,divorced,1,4,,,1
+237,,sales executive,2,2,10,,6,7,4,True,3.0,True,married,1,3,,,1
+238,,sales executive,2,3,9,,7,7,3,True,3.0,False,married,14,3,life sciences,10.0,0
+239,,healthcare representative,4,3,30,,12,13,3,False,3.0,False,,20,5,medical,32.0,2
+241,,research scientist,2,3,11,,7,9,2,,3.0,False,,3,3,,11.0,1
+242,research & development,manager,4,3,10,,4,7,6,True,4.0,False,,22,5,,36.0,3
+244,,laboratory technician,2,3,9,,5,8,2,True,3.0,False,married,1,3,life sciences,,1
+247,,healthcare representative,3,3,12,,5,7,1,False,3.0,False,,10,3,life sciences,15.0,7
+249,,sales executive,2,4,10,,4,8,5,False,4.0,False,,8,2,,10.0,1
+251,,manufacturing director,3,3,9,,4,7,4,True,3.0,False,divorced,2,2,life sciences,12.0,3
+252,,sales representative,2,2,9,,5,8,5,False,4.0,False,married,23,1,medical,,1
+253,,laboratory technician,2,3,10,,0,2,2,False,3.0,False,divorced,36,3,life sciences,10.0,1
+254,research & development,manufacturing director,2,2,9,,3,8,2,True,,False,,25,2,life sciences,10.0,0
+255,,sales executive,3,3,14,,2,1,3,False,4.0,False,,1,3,marketing,14.0,1
+257,,sales executive,2,3,10,,0,9,2,False,3.0,False,,7,4,,10.0,1
+258,,sales executive,4,3,20,,11,10,3,False,3.0,False,single,15,4,marketing,21.0,0
+259,,sales executive,2,3,11,,5,10,4,True,3.0,False,married,2,2,marketing,,3
+261,research & development,research director,3,3,13,,5,12,3,True,3.0,False,married,1,1,,14.0,0
+263,,research scientist,2,2,10,,1,7,3,,4.0,False,married,8,1,,10.0,1
+264,,research scientist,1,3,8,,3,0,3,True,3.0,False,marreid,19,4,life sciences,,1
+268,,sales executive,2,3,9,,4,2,2,False,,False,,8,4,,10.0,0
+269,research & development,laboratory technician,2,3,7,,1,7,3,False,4.0,False,divorced,7,4,life sciences,,3
+270,,manufacturing director,2,3,11,,1,8,2,False,4.0,False,single,8,4,,11.0,1
+271,,sales executive,2,3,10,,1,0,2,,4.0,False,,21,4,marketing,11.0,0
+272,,laboratory technician,2,1,9,,0,6,3,,4.0,True,,7,3,,9.0,1
+273,,sales executive,3,3,9,,2,8,6,False,3.0,False,,11,2,technical degree,10.0,0
+274,,research scientist,1,1,10,,0,9,2,False,4.0,False,divorced,23,3,,,1
+275,,sales executive,2,3,7,7.0,0,7,2,,3.0,False,marreid,12,2,,,0
+276,,sales executive,2,1,7,,7,7,3,False,3.0,True,married,6,4,life sciences,,4
+277,,sales executive,3,3,9,,0,7,2,False,3.0,False,divorced,23,1,,,3
+278,,human resources,1,3,8,,5,7,3,,4.0,False,,25,1,,8.0,1
+279,,sales executive,2,1,8,,0,7,2,,3.0,False,divorced,9,2,,,0
+280,,research scientist,2,3,20,,2,13,2,False,3.0,False,divorced,26,3,,20.0,1
+281,sales,sales representative,2,3,7,,4,5,3,,4.0,False,,6,2,marketing,13.0,2
+284,research & development,research scientist,1,3,8,,1,6,5,,3.0,False,,14,3,,8.0,1
+285,,healthcare representative,4,3,7,,1,0,6,False,3.0,False,single,3,3,,,3
+286,,research scientist,1,3,7,,0,3,2,False,3.0,False,single,9,3,medical,,1
+287,,research scientist,1,4,8,,1,7,3,,3.0,False,,21,3,life sciences,,1
+289,,manufacturing director,2,3,7,,1,7,0,False,3.0,False,divorced,18,4,,7.0,1
+290,,sales executive,2,3,7,,0,7,2,False,3.0,False,single,20,3,life sciences,7.0,1
+291,sales,sales executive,3,2,19,,12,8,2,True,3.0,False,single,6,3,medical,23.0,6
+292,,sales executive,3,3,10,,0,8,3,True,3.0,False,single,1,3,,10.0,1
+294,,manager,5,2,33,,15,12,2,True,3.0,False,,2,4,life sciences,33.0,1
+296,sales,sales executive,2,2,8,,7,5,0,True,3.0,False,,2,2,life sciences,13.0,3
+297,,manager,4,1,7,,7,7,2,False,3.0,False,marreid,27,3,,28.0,3
+299,,manager,3,3,10,,9,9,2,,3.0,True,married,10,4,life sciences,,1
+300,,manager,3,4,7,,6,2,6,False,,False,divorced,22,3,life sciences,10.0,7
+301,,sales executive,2,3,10,,0,9,3,,3.0,False,single,2,2,,,1
+302,research & development,laboratory technician,2,3,10,,0,8,4,,,False,married,20,2,technical degree,12.0,3
+303,,sales executive,2,2,8,,7,4,0,True,3.0,True,single,45,4,,,1
+304,,sales executive,2,4,8,,7,7,3,True,3.0,False,,7,3,technical degree,10.0,4
+305,,laboratory technician,1,3,8,,1,7,5,True,3.0,False,,10,4,life sciences,,0
+306,,sales executive,2,3,7,,1,7,3,,3.0,False,,13,3,marketing,13.0,4
+308,,sales executive,2,2,7,,0,1,6,False,3.0,False,,10,3,,,3
+309,research & development,laboratory technician,2,2,9,,0,0,3,False,,False,divorced,10,4,life sciences,9.0,1
+310,,laboratory technician,1,1,7,,0,7,4,False,3.0,True,,8,4,,7.0,1
+311,sales,sales executive,2,3,8,,0,7,3,False,3.0,False,,8,4,,8.0,1
+314,,sales executive,2,3,8,,7,7,3,,3.0,False,,1,3,,,1
+315,,laboratory technician,1,4,7,,1,7,3,,3.0,False,married,10,4,life sciences,,3
+316,,sales executive,2,3,8,,7,7,5,False,3.0,True,,4,3,,8.0,1
+317,,sales executive,2,3,7,,0,7,2,True,3.0,False,,14,2,,18.0,4
+320,sales,sales executive,3,4,10,,0,7,2,True,3.0,False,married,1,3,marketing,10.0,1
+323,,healthcare representative,3,3,8,,0,0,2,False,3.0,False,,16,3,life sciences,10.0,4
+324,,sales executive,2,3,9,,6,7,2,,3.0,False,married,2,5,,14.0,2
+326,,human resources,1,3,7,,1,0,2,,3.0,True,,17,4,life sciences,8.0,0
+327,,healthcare representative,2,2,8,,0,7,3,True,3.0,False,single,2,4,other,10.0,2
+328,,sales executive,2,4,10,,5,7,3,,3.0,False,single,21,4,,10.0,1
+329,,sales executive,2,4,7,,5,7,4,True,4.0,False,divorced,6,4,medical,13.0,4
+330,,laboratory technician,2,3,8,,4,7,3,False,3.0,False,divorced,9,5,,10.0,3
+331,sales,sales executive,2,3,14,,8,10,2,False,4.0,False,single,1,1,,18.0,7
+335,research & development,research scientist,1,1,10,,2,8,5,True,3.0,False,divorced,1,4,life sciences,10.0,1
+336,,healthcare representative,3,2,8,,7,7,3,False,3.0,False,,9,3,medical,9.0,1
+337,,healthcare representative,2,2,20,7.0,11,10,4,False,3.0,False,single,2,4,technical degree,20.0,1
+338,,sales executive,2,3,10,,0,8,2,True,3.0,False,,10,3,marketing,10.0,1
+339,,healthcare representative,2,4,9,,1,8,4,True,3.0,False,,1,4,life sciences,10.0,0
+340,,manufacturing director,3,3,9,,0,7,3,False,3.0,False,married,1,2,life sciences,9.0,1
+342,,sales executive,2,3,7,,1,7,2,False,3.0,False,single,35,4,marketing,20.0,2
+343,,manufacturing director,3,3,9,,1,7,4,True,4.0,False,,10,2,,9.0,1
+344,,manager,5,2,22,,2,10,3,False,,False,,1,3,,22.0,1
+346,research & development,research director,3,4,8,,0,5,2,False,3.0,False,married,8,3,,10.0,9
+347,,sales executive,2,3,8,,7,7,2,,,False,divorced,27,5,marketing,10.0,7
+348,,healthcare representative,4,3,10,,1,1,1,False,3.0,False,married,9,3,,30.0,7
+349,,sales representative,2,1,8,,3,1,3,True,3.0,False,single,2,2,,9.0,0
+350,,sales executive,3,2,10,,0,9,1,False,3.0,False,single,8,4,,10.0,1
+351,,healthcare representative,2,3,8,,1,1,3,True,3.0,False,married,27,3,medical,11.0,4
+352,,manufacturing director,2,4,15,,4,12,2,,3.0,False,single,2,4,life sciences,17.0,6
+354,,manager,5,3,24,,14,9,4,True,3.0,False,,8,3,,24.0,1
+355,,manufacturing director,2,3,9,,0,5,2,False,3.0,False,,1,3,other,,0
+357,,sales executive,2,3,9,,7,3,3,False,3.0,True,single,2,1,medical,,4
+360,,research scientist,1,3,8,,7,1,0,True,3.0,False,,9,2,,8.0,1
+361,research & development,laboratory technician,1,1,7,,1,0,1,,3.0,True,divorced,2,4,life sciences,,4
+362,,sales representative,1,2,7,,5,2,2,False,,False,,7,4,,,3
+363,sales,sales executive,2,2,7,,0,7,2,True,3.0,False,,28,3,medical,,1
+365,,manufacturing director,2,3,8,,6,3,2,False,3.0,False,married,3,4,medical,8.0,1
+366,,sales executive,3,2,16,,3,7,6,False,,True,married,3,1,life sciences,,1
+367,,laboratory technician,2,3,9,,0,8,5,True,3.0,False,,47,2,,,1
+369,,sales executive,2,3,7,,0,7,3,True,,False,divorced,8,4,technical degree,12.0,4
+371,,manufacturing director,3,3,10,,0,8,2,,,False,,17,3,technical degree,22.0,8
+372,,research director,3,4,8,,1,7,4,,3.0,False,,8,2,,,0
+373,,manufacturing director,2,4,8,,1,3,2,False,3.0,False,married,2,2,medical,,1
+374,,healthcare representative,2,3,8,,6,7,3,True,3.0,False,married,18,4,medical,,3
+376,,laboratory technician,1,3,8,,7,7,2,True,3.0,False,single,29,4,,10.0,9
+377,,sales executive,3,2,15,,6,12,2,True,3.0,False,,2,3,marketing,30.0,2
+379,,manager,4,2,9,,6,2,3,,3.0,False,single,2,1,,,7
+380,,healthcare representative,3,2,10,,1,9,2,False,3.0,True,single,24,2,,10.0,1
+381,,research scientist,2,3,8,,1,7,4,True,3.0,False,single,10,3,other,,3
+382,,sales executive,3,3,8,,4,7,2,True,4.0,True,,4,3,technical degree,9.0,0
+383,research & development,research scientist,2,2,13,,3,8,4,True,4.0,True,single,36,4,medical,14.0,1
+384,research & development,laboratory technician,1,3,7,,5,6,3,True,,True,married,4,1,technical degree,7.0,1
+385,sales,sales executive,3,2,8,,2,7,2,,3.0,False,,10,4,,9.0,0
+387,,manufacturing director,3,3,8,,0,1,1,False,3.0,False,married,27,3,life sciences,18.0,8
+389,,research director,5,2,20,,4,9,2,True,,False,,14,3,,,1
+392,,laboratory technician,1,4,8,,0,7,2,,4.0,False,,3,4,,8.0,1
+393,,manufacturing director,3,2,7,,6,4,2,True,3.0,False,divorced,2,3,,15.0,2
+394,research & development,manager,5,3,7,,4,7,6,False,3.0,False,divorced,7,2,medical,26.0,3
+395,,sales executive,2,3,7,,1,7,2,True,3.0,False,,17,4,life sciences,15.0,3
+396,,sales executive,2,3,10,,0,1,3,True,3.0,False,,25,3,medical,,1
+398,,laboratory technician,2,3,10,,8,9,4,,,False,divorced,7,4,life sciences,,1
+400,,research scientist,2,3,8,,0,7,2,False,3.0,False,single,2,2,life sciences,10.0,4
+401,,manufacturing director,3,1,7,,7,7,2,True,4.0,False,divorced,1,3,technical degree,17.0,2
+403,research & development,research director,5,1,8,,0,7,2,True,3.0,False,,3,3,life sciences,,3
+404,,research director,4,2,7,,1,7,2,,3.0,False,divorced,1,3,,9.0,3
+405,,manufacturing director,3,3,9,,5,4,6,False,3.0,False,single,24,4,,,6
+406,,sales executive,3,2,21,,15,17,3,True,3.0,False,single,4,4,marketing,23.0,3
+407,,healthcare representative,3,3,10,,0,5,2,True,3.0,True,married,15,3,medical,,1
+412,,manufacturing director,2,3,8,,1,7,6,,3.0,False,single,33,2,,,0
+413,,healthcare representative,3,3,9,,1,6,0,,,False,,9,3,,10.0,0
+414,,sales executive,2,3,7,,1,7,3,,3.0,False,,2,2,life sciences,11.0,3
+415,sales,sales executive,2,4,15,,6,13,2,True,3.0,False,marreid,12,3,marketing,,2
+416,,laboratory technician,2,2,9,,0,0,0,False,3.0,False,,1,3,,10.0,0
+418,,laboratory technician,2,3,8,,7,7,1,False,3.0,False,,29,3,,10.0,4
+419,,research scientist,2,2,20,,1,8,3,False,3.0,False,single,6,3,medical,20.0,1
+420,,manager,4,3,20,,0,9,5,False,3.0,False,married,10,3,human resources,21.0,0
+421,,laboratory technician,1,4,7,,0,7,2,,3.0,False,single,7,3,,8.0,0
+422,,healthcare representative,3,3,8,,7,7,1,True,3.0,True,single,14,1,other,,0
+423,research & development,research director,4,3,20,,12,7,3,False,3.0,False,,1,3,,29.0,6
+424,,research director,4,4,7,,0,0,4,,3.0,False,divorced,1,4,,31.0,2
+427,,sales executive,3,3,7,,4,3,1,True,3.0,True,divorced,9,3,marketing,28.0,4
+428,,healthcare representative,3,1,7,,0,7,2,False,3.0,False,,20,3,medical,,2
+429,,healthcare representative,3,3,8,,0,7,3,False,3.0,False,divorced,7,4,life sciences,29.0,3
+430,,sales executive,2,2,10,,0,4,3,True,3.0,False,,19,3,,10.0,1
+431,,research scientist,1,2,9,,0,7,2,True,3.0,True,single,1,4,technical degree,,6
+432,,healthcare representative,2,1,7,,0,7,3,True,3.0,False,,8,1,other,9.0,3
+435,,manufacturing director,3,2,33,,1,9,4,True,3.0,True,married,2,5,,,0
+436,,research director,5,3,22,,1,10,4,False,,False,,7,3,medical,,0
+437,,laboratory technician,2,1,10,,1,4,3,False,3.0,False,,5,5,,10.0,1
+438,,sales executive,2,2,10,,4,5,2,False,,False,,26,3,marketing,10.0,1
+439,,manufacturing director,2,4,9,,7,2,3,True,3.0,False,,10,4,,9.0,1
+441,research & development,laboratory technician,1,2,7,,0,7,3,True,3.0,False,divorced,36,3,,7.0,1
+442,,manufacturing director,2,2,10,,3,9,3,True,3.0,False,divorced,2,2,,10.0,1
+443,,human resources,2,3,10,,0,2,3,,3.0,False,married,1,5,,14.0,4
+444,,manufacturing director,2,4,7,,0,7,6,False,3.0,False,divorced,2,1,life sciences,7.0,1
+446,,sales representative,1,3,9,,7,7,3,False,,True,,7,2,,19.0,2
+447,,laboratory technician,1,3,7,,5,7,5,True,4.0,False,,7,3,medical,7.0,1
+448,,healthcare representative,3,4,8,,6,7,2,True,,False,,2,3,life sciences,,1
+450,research & development,healthcare representative,2,3,10,,0,9,3,,3.0,False,single,13,4,,19.0,6
+451,,manufacturing director,2,3,7,,0,7,3,True,3.0,False,married,27,4,life sciences,17.0,2
+452,,research scientist,1,2,9,,0,7,2,False,3.0,False,,2,4,,10.0,0
+453,,sales executive,3,2,7,,1,7,2,True,3.0,False,,15,2,marketing,,2
+454,,sales executive,2,3,11,,1,7,2,,3.0,False,,2,3,marketing,13.0,8
+455,,research scientist,1,3,7,,0,7,3,True,3.0,False,single,5,4,,12.0,2
+456,,human resources,1,3,9,,1,8,5,False,3.0,False,,2,3,life sciences,,0
+458,,sales executive,2,3,10,,7,7,2,False,3.0,True,,27,3,,,1
+459,research & development,manufacturing director,2,3,7,,1,7,6,False,3.0,False,divorced,2,2,medical,15.0,2
+460,,manufacturing director,3,3,7,,0,2,3,False,3.0,False,single,10,3,medical,9.0,9
+461,,healthcare representative,2,3,9,7.0,3,7,2,False,4.0,True,married,19,2,medical,13.0,4
+463,,sales executive,2,3,7,,7,7,5,False,4.0,False,married,2,4,life sciences,7.0,1
+464,,sales executive,3,3,8,,0,7,2,True,4.0,True,,10,3,life sciences,14.0,5
+466,sales,sales executive,2,4,8,,0,7,5,False,3.0,False,single,2,2,,9.0,0
+467,,research director,3,3,13,,5,7,3,True,3.0,False,married,6,3,medical,18.0,9
+469,,sales executive,2,2,7,,0,7,2,,3.0,False,married,1,2,life sciences,7.0,1
+470,,research scientist,2,3,8,,1,7,4,False,3.0,False,married,14,4,,,8
+471,,sales executive,3,3,8,,1,1,2,True,3.0,False,divorced,13,4,medical,9.0,1
+472,research & development,laboratory technician,1,3,7,,7,6,6,True,3.0,False,single,1,3,medical,8.0,0
+473,,sales executive,2,3,7,,0,7,5,False,3.0,False,,9,3,,,1
+474,sales,sales executive,2,3,10,,0,8,4,True,3.0,True,,26,4,marketing,10.0,1
+476,,research director,3,3,11,,4,8,2,True,4.0,False,married,10,3,,13.0,4
+477,,research scientist,2,3,10,,0,8,5,True,3.0,False,,9,4,medical,10.0,1
+478,,healthcare representative,2,3,9,,8,1,6,True,,False,married,15,2,,,0
+479,,research scientist,2,3,7,,1,7,2,False,,False,single,24,1,life sciences,,7
+481,,manufacturing director,4,2,20,,0,10,3,True,,False,married,28,4,life sciences,21.0,0
+482,sales,sales executive,2,2,8,,1,7,2,False,4.0,False,married,28,3,marketing,8.0,1
+484,,healthcare representative,3,2,7,,1,7,5,True,3.0,False,,6,1,,,4
+485,,research director,3,3,12,6.0,2,11,4,False,,False,single,7,4,,,0
+487,,sales executive,2,3,9,,0,8,4,True,,False,single,5,4,,14.0,4
+488,research & development,manager,4,2,7,,7,7,2,False,3.0,False,divorced,10,3,life sciences,,4
+489,research & development,healthcare representative,3,3,19,,11,8,1,False,4.0,False,single,2,4,,20.0,0
+490,,laboratory technician,1,2,9,,7,8,4,,3.0,False,divorced,2,3,medical,10.0,0
+491,research & development,manager,3,3,10,,8,8,2,,,False,married,5,4,,12.0,6
+492,,manufacturing director,3,3,16,,0,13,5,True,3.0,False,single,5,4,technical degree,17.0,0
+495,,manager,5,2,21,,12,6,2,False,3.0,False,divorced,10,4,human resources,23.0,3
+496,,healthcare representative,2,2,7,,0,7,2,False,3.0,False,,7,3,,,8
+498,,manager,4,3,20,,4,17,2,False,3.0,False,married,26,4,marketing,,2
+499,,sales executive,2,3,7,,7,7,2,True,4.0,False,,2,2,marketing,8.0,0
+500,research & development,manager,4,3,31,,14,7,3,False,3.0,False,divorced,2,4,,31.0,1
+501,research & development,healthcare representative,2,3,10,,0,7,2,,4.0,False,married,21,1,life sciences,10.0,1
+502,,manufacturing director,4,2,21,,11,8,3,,3.0,False,married,1,1,,,1
+504,,research scientist,1,4,10,,0,8,3,False,3.0,False,,7,2,,,1
+506,,manager,4,3,22,,13,7,3,False,3.0,False,,2,2,medical,23.0,0
+507,,healthcare representative,3,3,8,,4,0,4,True,3.0,False,single,7,4,life sciences,18.0,7
+508,,human resources,1,4,7,,5,0,2,True,3.0,False,,1,3,,7.0,1
+510,,research scientist,2,3,9,,1,1,3,False,3.0,False,single,4,4,life sciences,,1
+511,research & development,manufacturing director,2,1,8,,1,7,2,True,,False,married,29,1,life sciences,8.0,1
+512,,research director,4,3,20,,14,17,1,True,3.0,False,married,28,3,life sciences,,3
+513,,research director,4,1,32,,13,9,2,False,3.0,False,,22,5,,,1
+515,sales,sales executive,3,4,7,,7,6,3,,3.0,False,married,6,3,,11.0,2
+516,research & development,laboratory technician,1,3,9,,1,4,3,,3.0,False,,13,4,,10.0,1
+517,,research director,4,2,21,6.0,8,6,2,False,,False,single,28,2,technical degree,21.0,1
+519,,research scientist,1,2,7,,7,3,2,False,3.0,False,married,15,3,,,0
+520,,manager,5,3,22,,4,14,2,True,3.0,False,married,2,3,,24.0,5
+521,sales,sales executive,2,2,9,,0,8,3,,3.0,False,married,2,3,,17.0,2
+522,,laboratory technician,2,2,9,,0,8,3,,3.0,False,single,15,2,life sciences,10.0,0
+523,,sales executive,2,3,9,,8,7,2,False,4.0,False,,12,4,marketing,,0
+525,,manufacturing director,2,2,6,,0,3,3,,3.0,False,single,11,3,,6.0,1
+527,,research scientist,1,3,6,,1,5,1,False,3.0,False,,15,3,,6.0,1
+528,,manufacturing director,2,3,6,,1,4,6,False,4.0,False,,1,3,,6.0,1
+529,,sales executive,2,3,7,,0,7,1,True,3.0,False,single,9,4,life sciences,,1
+530,,healthcare representative,2,2,6,,0,4,4,True,3.0,False,married,30,4,technical degree,7.0,0
+531,sales,sales executive,2,3,6,,0,5,2,,3.0,False,,2,1,life sciences,10.0,4
+533,,sales executive,3,3,9,,7,7,6,False,3.0,False,divorced,9,4,,9.0,1
+536,,manager,5,3,32,,10,7,2,False,3.0,False,married,3,3,,,1
+537,,research scientist,1,2,6,,1,3,3,,3.0,False,,1,2,life sciences,6.0,1
+538,,sales executive,2,4,6,,0,4,3,False,,False,,3,1,medical,,1
+539,sales,sales executive,2,3,6,,1,4,5,False,4.0,False,single,42,1,,6.0,1
+541,research & development,research scientist,1,2,6,,1,3,3,True,,False,,2,4,,6.0,1
+543,,research scientist,1,2,6,,1,1,3,False,3.0,False,,16,1,medical,6.0,1
+544,research & development,healthcare representative,2,4,6,,1,2,2,,3.0,False,married,1,4,,,1
+545,,research scientist,1,3,7,,1,7,1,False,4.0,False,divorced,28,4,life sciences,11.0,4
+546,research & development,research scientist,1,3,7,,1,1,2,True,3.0,False,divorced,10,3,,8.0,0
+550,research & development,healthcare representative,2,3,6,,0,1,2,False,,False,married,11,2,,6.0,1
+552,,research scientist,1,3,6,,1,2,2,,3.0,False,,1,3,,17.0,7
+554,,research scientist,2,3,6,,1,2,3,,3.0,False,married,1,4,,9.0,4
+555,,research scientist,2,3,9,,1,6,4,True,3.0,False,divorced,2,3,medical,10.0,0
+560,,research scientist,1,3,5,,0,4,3,False,4.0,False,married,2,3,life sciences,,0
+563,,manufacturing director,3,1,6,,0,2,3,True,3.0,False,,13,3,,37.0,4
+564,,sales executive,2,3,5,,0,4,3,True,3.0,False,,4,3,medical,5.0,1
+565,,sales executive,2,2,6,,0,3,1,True,3.0,True,single,5,3,,,1
+566,,research scientist,1,3,5,,4,3,2,True,3.0,True,,14,4,life sciences,7.0,9
+567,research & development,research scientist,1,2,5,,4,3,3,False,3.0,False,married,6,3,,5.0,1
+568,,laboratory technician,1,3,5,,0,4,2,False,4.0,True,,9,3,medical,,7
+569,,research scientist,1,3,5,,0,4,4,,3.0,False,single,18,3,life sciences,,1
+570,,manager,5,3,5,,4,4,5,False,3.0,False,,11,3,,,3
+571,,research scientist,1,3,5,,1,4,2,False,4.0,False,,6,5,life sciences,8.0,3
+572,,sales executive,2,3,5,,0,3,3,False,3.0,False,,4,2,,9.0,4
+573,,research scientist,1,4,5,,2,2,3,,3.0,False,divorced,7,3,,7.0,4
+574,,sales executive,3,3,10,,1,9,3,True,4.0,True,married,27,3,marketing,10.0,1
+575,research & development,manufacturing director,2,1,5,,1,4,2,True,3.0,False,,1,4,medical,6.0,0
+576,,laboratory technician,1,3,5,,0,4,2,False,3.0,True,married,14,3,,8.0,5
+577,,laboratory technician,1,2,5,,1,4,2,True,3.0,True,,29,2,,,0
+578,,sales executive,2,3,5,,0,1,5,True,3.0,False,,6,4,,,4
+582,,sales executive,2,3,5,,1,4,0,True,3.0,False,,1,1,marketing,,0
+583,,manufacturing director,2,2,5,,1,2,3,True,3.0,False,single,6,3,,,6
+584,,laboratory technician,1,3,5,4.0,0,3,3,,4.0,False,,10,3,medical,,6
+585,,sales executive,2,2,6,,1,0,6,True,3.0,True,,22,2,,8.0,2
+586,,manager,4,3,5,,1,2,2,False,3.0,False,single,2,3,,,2
+587,,research scientist,1,3,6,,0,4,2,True,4.0,True,,3,1,,,0
+589,sales,sales executive,2,2,5,,1,3,3,False,3.0,False,single,4,2,,5.0,1
+592,,research scientist,2,3,5,,0,2,3,False,3.0,False,,12,2,,19.0,2
+593,,manufacturing director,2,1,5,,0,2,2,True,4.0,False,,2,3,life sciences,11.0,2
+594,,laboratory technician,1,1,5,,4,3,2,False,3.0,False,single,22,3,life sciences,,0
+598,,research scientist,2,3,6,,0,5,2,False,3.0,False,married,9,4,,6.0,1
+599,,sales executive,2,4,5,,1,3,2,False,3.0,True,,27,2,life sciences,8.0,4
+600,,research scientist,1,2,5,,0,3,3,,3.0,False,divorced,5,4,life sciences,10.0,9
+601,,sales executive,3,3,5,,0,2,2,False,3.0,False,divorced,9,3,marketing,18.0,4
+602,,human resources,1,2,5,,0,3,3,True,4.0,False,,8,3,life sciences,,0
+603,,research scientist,1,3,6,,0,2,2,True,3.0,False,,11,4,,,3
+604,,sales representative,1,3,5,4.0,0,0,3,False,3.0,False,married,21,2,medical,,5
+606,,sales executive,2,2,5,,0,3,6,True,3.0,False,,14,2,,,7
+608,,research director,4,3,5,,1,3,1,True,,False,divorced,1,2,medical,32.0,9
+609,sales,manager,3,3,6,,0,4,1,,3.0,False,,1,2,,14.0,3
+611,,research scientist,1,3,5,,0,3,4,False,3.0,False,married,9,3,medical,18.0,2
+612,,manager,4,4,5,,2,1,3,True,,False,single,1,4,,,2
+613,research & development,laboratory technician,2,3,5,,0,3,2,False,3.0,False,single,9,3,life sciences,9.0,9
+615,sales,sales executive,2,3,6,,1,5,3,False,3.0,False,single,4,4,marketing,,7
+616,,research scientist,1,3,6,,0,2,4,False,3.0,True,single,10,4,,6.0,1
+617,,research scientist,1,1,5,,1,3,2,False,,False,married,15,1,,6.0,0
+619,,manufacturing director,3,3,5,,1,4,2,False,3.0,False,,1,4,,33.0,7
+620,sales,manager,5,2,11,,0,8,2,True,3.0,False,married,4,2,,,2
+622,,laboratory technician,2,3,10,,1,1,3,,3.0,True,,7,2,life sciences,,1
+624,,research scientist,1,2,5,,0,0,2,True,4.0,False,divorced,26,1,,5.0,1
+625,sales,sales executive,2,2,5,,1,4,2,False,3.0,False,married,21,4,,8.0,3
+627,sales,sales executive,2,3,5,,1,2,2,,3.0,False,marreid,41,1,life sciences,8.0,6
+628,research & development,healthcare representative,3,3,6,,0,5,2,False,4.0,False,,25,2,,13.0,3
+629,,laboratory technician,1,3,5,,0,4,2,True,,False,married,8,4,other,12.0,9
+630,,sales executive,2,3,5,,0,1,3,,3.0,False,single,3,4,,15.0,3
+631,,laboratory technician,2,2,10,,1,8,2,,3.0,False,single,47,4,life sciences,10.0,1
+632,,sales executive,2,3,5,,0,3,3,,3.0,False,married,4,1,,,1
+634,sales,sales executive,2,3,5,,1,3,4,True,3.0,False,single,5,3,,,0
+636,,sales executive,2,3,5,,1,2,4,True,3.0,False,married,14,3,medical,,3
+637,,laboratory technician,1,3,5,,1,0,3,False,3.0,True,single,9,4,life sciences,15.0,3
+638,,research scientist,1,3,5,,0,3,3,,4.0,False,marreid,49,3,technical degree,,4
+639,,sales executive,2,3,8,,7,1,5,True,3.0,False,,9,2,,,0
+641,,sales executive,2,3,5,,1,2,2,True,3.0,False,married,14,2,life sciences,5.0,1
+642,,laboratory technician,1,4,6,,0,2,0,False,3.0,False,divorced,27,3,,,5
+643,,research scientist,1,2,6,,1,1,3,True,3.0,False,,7,3,,6.0,1
+644,research & development,manufacturing director,3,2,5,,0,2,6,,3.0,False,,2,2,,10.0,3
+645,research & development,research scientist,1,3,8,,7,7,2,False,3.0,False,married,10,3,,8.0,1
+647,research & development,healthcare representative,2,4,5,,0,4,3,True,4.0,False,divorced,11,2,life sciences,13.0,6
+648,,laboratory technician,1,2,5,,1,2,2,True,,True,single,8,1,medical,5.0,1
+649,,research scientist,1,2,5,,1,4,2,True,3.0,False,,2,4,,6.0,0
+650,,manufacturing director,2,3,5,,1,4,3,True,4.0,False,single,24,1,technical degree,9.0,2
+651,research & development,laboratory technician,1,2,5,,0,4,3,,3.0,False,married,6,2,other,5.0,1
+652,,laboratory technician,1,1,5,,0,3,2,True,,False,married,23,4,medical,6.0,0
+654,research & development,laboratory technician,1,3,5,,0,2,3,,3.0,False,single,48,2,,6.0,0
+655,,sales executive,2,3,5,,1,4,3,True,4.0,False,,8,3,,14.0,5
+656,,sales executive,2,3,10,,0,9,2,False,3.0,False,single,15,4,marketing,,1
+657,,research director,5,3,5,,4,3,3,False,3.0,False,married,2,1,life sciences,28.0,3
+658,,laboratory technician,1,4,5,,0,2,3,,4.0,False,,9,4,,5.0,1
+662,,sales representative,1,2,5,,0,3,4,False,4.0,True,single,9,4,life sciences,,7
+663,,research scientist,1,4,5,,1,4,3,False,3.0,False,,2,2,medical,6.0,1
+664,,sales executive,2,4,5,,1,3,3,False,,False,marreid,18,3,life sciences,,2
+665,sales,sales executive,2,3,4,,1,3,2,False,4.0,False,,1,5,marketing,9.0,5
+666,,laboratory technician,2,3,10,,9,9,2,,3.0,False,single,29,5,life sciences,10.0,1
+667,,research director,5,2,27,,13,8,2,False,,False,divorced,7,2,medical,,5
+668,,sales executive,2,2,4,,1,3,2,False,,False,single,1,1,,20.0,7
+669,,healthcare representative,4,2,22,,11,11,3,False,4.0,False,married,1,4,life sciences,22.0,1
+670,,research director,3,3,4,,0,3,5,False,3.0,False,,2,4,technical degree,16.0,9
+672,,manager,4,4,5,,4,4,3,True,,False,single,26,3,,,2
+673,,laboratory technician,1,3,5,,1,2,2,,3.0,False,married,18,1,life sciences,,0
+675,,laboratory technician,1,2,5,,1,2,3,True,3.0,False,single,2,1,,6.0,0
+676,,sales representative,1,3,4,,1,2,3,False,3.0,False,,10,4,,,6
+678,,sales executive,2,2,8,,0,7,2,False,,False,single,1,4,life sciences,12.0,4
+680,,manufacturing director,2,3,5,,0,2,5,False,3.0,False,divorced,21,2,,11.0,2
+681,,research scientist,1,3,5,,2,0,4,True,3.0,False,divorced,10,4,,,1
+682,,sales executive,2,2,6,,0,1,5,True,3.0,True,,26,4,,9.0,5
+683,,research scientist,1,2,4,,0,1,3,True,3.0,True,single,13,1,medical,4.0,1
+684,,sales representative,1,3,4,,1,2,5,False,,False,married,4,2,,,2
+685,,healthcare representative,2,4,6,,1,5,2,True,3.0,False,,5,2,life sciences,6.0,1
+686,,research director,4,3,5,,1,3,5,True,3.0,False,married,3,4,,21.0,3
+687,research & development,healthcare representative,2,3,5,,3,3,3,,3.0,False,married,11,2,medical,5.0,1
+689,,healthcare representative,2,4,8,,0,7,2,True,3.0,False,single,16,2,medical,9.0,0
+690,research & development,healthcare representative,2,1,5,,1,2,2,,3.0,False,divorced,1,4,life sciences,,2
+691,,research scientist,1,3,4,,1,2,2,True,3.0,False,single,5,3,,4.0,1
+692,,research scientist,2,3,4,,0,3,4,False,,False,,20,4,life sciences,20.0,3
+694,,sales executive,2,3,4,,0,2,3,True,,False,,2,3,life sciences,,1
+695,,healthcare representative,3,2,4,,1,3,2,False,3.0,False,,10,3,,20.0,6
+696,,sales representative,1,3,5,,1,4,4,,3.0,True,single,1,1,technical degree,6.0,1
+698,,research scientist,1,2,7,,5,7,3,True,3.0,False,,2,4,,14.0,3
+700,,sales executive,3,3,10,,9,7,3,,3.0,False,single,30,4,medical,,1
+701,sales,sales executive,2,3,14,,1,10,3,True,3.0,False,single,10,2,,,7
+703,,sales executive,2,3,5,,1,4,5,,4.0,False,married,28,2,marketing,,1
+705,research & development,research scientist,1,2,5,,0,3,5,True,3.0,False,divorced,6,4,,6.0,0
+706,,sales representative,1,3,4,,0,2,3,,3.0,True,divorced,2,1,marketing,5.0,0
+708,,laboratory technician,1,3,4,,0,2,2,,3.0,False,,49,1,,5.0,1
+709,,human resources,2,4,8,,3,6,3,False,3.0,False,,24,3,,,9
+710,,research scientist,1,3,4,,1,2,3,,3.0,False,,19,4,medical,,0
+711,,sales executive,2,2,4,,1,2,2,True,3.0,True,single,8,3,,,6
+712,,manufacturing director,2,3,5,,1,4,4,True,,False,divorced,19,4,,,9
+714,research & development,research director,4,3,4,,0,3,3,False,3.0,False,,2,3,,,5
+715,,manufacturing director,2,2,4,,0,2,4,False,3.0,False,married,1,2,life sciences,8.0,9
+718,,research scientist,2,4,5,,1,3,3,True,3.0,False,married,8,2,,9.0,5
+720,,laboratory technician,2,4,5,,1,3,1,,3.0,False,married,3,3,,17.0,2
+723,,sales executive,2,3,5,,1,3,1,True,3.0,False,,10,3,,6.0,1
+724,research & development,laboratory technician,1,3,5,,0,2,2,False,,False,divorced,1,4,,8.0,3
+725,,manufacturing director,2,3,4,,0,3,1,False,3.0,False,,1,1,,4.0,1
+726,research & development,laboratory technician,1,1,4,,1,1,3,True,3.0,False,,8,1,life sciences,4.0,1
+727,,manufacturing director,4,2,5,,4,3,4,False,3.0,False,,2,3,,,3
+728,sales,manager,4,3,9,,1,1,4,False,3.0,False,married,11,2,,26.0,3
+729,,human resources,1,3,6,,0,4,3,True,3.0,False,,24,4,,,1
+731,,research scientist,1,2,5,,1,3,5,False,3.0,False,,26,1,medical,,1
+733,,research scientist,1,2,5,,0,4,2,True,3.0,False,marreid,42,1,,,0
+735,,sales executive,2,2,10,,1,4,3,False,3.0,False,married,10,3,marketing,,1
+736,,sales executive,2,1,4,,1,3,2,,,True,single,9,3,,7.0,8
+737,,sales executive,2,3,4,,0,3,3,False,3.0,False,divorced,29,4,life sciences,8.0,8
+738,,manufacturing director,2,3,6,,1,4,3,True,3.0,False,divorced,2,4,technical degree,,2
+739,human resources,human resources,2,4,4,,0,3,3,,3.0,False,married,2,5,,,7
+741,,research scientist,1,3,5,,0,3,2,True,3.0,False,divorced,4,2,,,1
+742,,manager,5,3,7,,7,7,4,False,3.0,False,single,8,4,life sciences,36.0,6
+743,sales,sales executive,2,3,9,,1,7,2,True,3.0,False,,1,3,marketing,,0
+744,,sales executive,2,2,5,,0,4,0,True,3.0,False,married,26,3,life sciences,5.0,1
+745,,manufacturing director,4,4,5,,0,2,3,,3.0,False,married,28,2,,,2
+746,,research scientist,1,2,4,,1,1,2,,3.0,False,single,2,1,medical,5.0,0
+747,,laboratory technician,2,2,4,3.0,1,3,2,True,4.0,True,,28,2,,20.0,3
+748,,research scientist,1,3,4,,1,3,2,,3.0,False,,1,4,other,10.0,5
+749,,sales executive,2,3,4,,0,3,3,True,3.0,False,,7,5,marketing,7.0,4
+750,,sales executive,2,3,4,,0,3,2,False,3.0,False,,7,3,medical,5.0,0
+751,sales,sales executive,2,3,5,,0,0,4,False,,True,single,13,3,,7.0,5
+752,,human resources,1,3,5,,1,3,3,False,4.0,False,,16,3,life sciences,6.0,0
+753,research & development,laboratory technician,2,3,4,,1,2,2,False,3.0,False,single,11,1,life sciences,5.0,0
+754,,manufacturing director,2,2,5,,0,2,2,,3.0,False,,25,3,,5.0,1
+755,,sales representative,1,2,5,,4,2,5,,4.0,False,married,28,4,,6.0,0
+756,,human resources,2,3,6,,1,2,2,,3.0,False,,10,4,,10.0,3
+757,,manufacturing director,2,1,5,,0,0,5,True,4.0,False,divorced,27,3,,6.0,0
+758,,manufacturing director,2,3,4,3.0,0,2,2,False,3.0,False,,19,3,life sciences,,3
+759,research & development,research scientist,1,3,6,,1,3,2,False,3.0,False,,2,1,technical degree,6.0,1
+760,,laboratory technician,1,3,4,,1,3,4,True,3.0,False,,7,3,,,2
+762,,healthcare representative,3,4,4,,1,2,2,False,3.0,False,married,24,4,medical,11.0,3
+763,,sales executive,2,1,6,,1,3,2,True,3.0,False,,1,4,,6.0,1
+766,,sales executive,3,1,4,,0,2,2,False,3.0,False,married,19,3,,,3
+767,,laboratory technician,1,3,5,,0,4,6,True,4.0,False,divorced,12,3,medical,7.0,8
+768,,laboratory technician,1,3,5,,0,4,2,,4.0,False,divorced,9,4,life sciences,5.0,1
+769,,research scientist,1,3,5,,2,3,2,True,3.0,True,,1,2,,,1
+771,research & development,research director,3,3,4,,2,2,3,True,4.0,False,single,10,1,medical,,7
+774,,healthcare representative,2,3,5,,0,3,3,True,3.0,False,,1,3,,12.0,4
+776,,research scientist,1,3,6,,3,3,1,False,4.0,False,married,10,4,technical degree,10.0,3
+777,,sales executive,3,3,5,,1,0,3,True,3.0,False,married,4,3,,9.0,2
+778,,research scientist,2,3,5,,0,4,2,True,4.0,False,,7,4,medical,16.0,5
+779,,research scientist,1,3,5,,1,2,3,False,,False,,2,4,technical degree,6.0,1
+780,,sales executive,2,3,5,,0,4,2,True,3.0,False,,18,4,,,0
+781,,research scientist,1,3,5,,1,4,3,True,3.0,False,single,16,3,medical,5.0,1
+782,,healthcare representative,2,3,5,,0,2,5,False,3.0,False,married,1,3,life sciences,6.0,0
+783,research & development,research scientist,2,3,4,,2,3,6,False,3.0,False,married,9,2,,9.0,3
+784,,healthcare representative,2,2,4,,1,2,2,True,3.0,False,single,41,2,life sciences,4.0,1
+785,,manufacturing director,2,2,8,,7,7,1,False,3.0,False,married,6,4,,10.0,2
+786,,research scientist,2,3,4,,1,2,3,,3.0,False,,18,4,,9.0,6
+787,,research scientist,1,3,5,,1,0,3,,,False,,1,3,life sciences,,3
+788,,sales executive,2,3,5,,0,4,3,,4.0,False,,8,2,,6.0,0
+790,,sales executive,2,3,6,,0,1,3,True,3.0,True,,1,4,,12.0,7
+792,,sales executive,2,3,5,,0,1,3,True,3.0,False,,20,3,,,8
+794,,research scientist,1,1,4,,1,1,5,True,3.0,False,married,1,4,,4.0,1
+795,,laboratory technician,2,2,4,,0,3,2,False,3.0,False,,13,2,other,10.0,4
+796,,laboratory technician,2,4,4,,1,2,3,True,3.0,False,,8,3,,,2
+797,,laboratory technician,1,3,2,,2,2,3,False,3.0,False,married,2,1,,6.0,9
+798,research & development,research scientist,1,3,5,,4,3,1,True,3.0,False,divorced,26,1,,5.0,1
+799,,laboratory technician,1,3,2,,1,2,2,,3.0,False,divorced,38,2,,3.0,0
+800,research & development,laboratory technician,1,2,4,,0,3,4,True,3.0,True,single,24,3,life sciences,6.0,5
+801,,research scientist,1,4,6,,0,5,5,,3.0,False,divorced,5,2,,7.0,0
+802,research & development,research scientist,1,3,3,,1,2,3,True,3.0,False,single,2,3,life sciences,6.0,5
+803,,manufacturing director,2,4,4,,1,3,5,True,3.0,False,,11,2,,5.0,0
+804,,research scientist,1,3,4,,1,3,2,True,3.0,True,single,6,1,,,2
+805,research & development,research scientist,1,1,10,,6,7,5,False,,True,,16,1,,,1
+806,,manager,5,3,2,,2,1,2,False,3.0,False,single,2,4,marketing,22.0,3
+807,,healthcare representative,2,3,4,,1,3,5,False,3.0,False,married,10,4,other,,2
+808,,sales representative,1,2,3,,0,2,2,True,3.0,True,married,3,2,,3.0,1
+809,,sales representative,1,3,2,,2,2,3,True,3.0,False,married,2,3,marketing,2.0,1
+810,,laboratory technician,1,3,2,,2,2,3,True,,True,single,5,4,,2.0,1
+811,,sales executive,2,2,2,,0,0,2,False,3.0,False,marreid,22,3,,5.0,7
+813,,research scientist,1,3,3,,1,2,2,True,3.0,False,married,31,3,medical,5.0,4
+814,,research director,3,3,5,,0,2,3,True,,False,,20,4,medical,,4
+815,,human resources,2,3,4,,0,2,2,True,4.0,False,divorced,38,2,medical,,8
+816,,manufacturing director,2,3,5,,1,3,2,,3.0,False,married,1,2,medical,,1
+817,,laboratory technician,1,3,4,,0,3,4,,4.0,False,,9,4,,10.0,3
+818,sales,sales executive,2,3,3,,0,2,2,True,4.0,False,married,3,2,other,4.0,0
+819,,laboratory technician,2,3,3,,1,2,3,,3.0,False,married,23,3,,,4
+820,,human resources,1,3,3,,0,2,3,,4.0,True,divorced,6,4,human resources,,4
+822,,research scientist,1,2,2,,2,1,2,,3.0,False,married,7,1,,,1
+823,,research scientist,1,4,3,,1,2,2,True,3.0,False,single,26,3,medical,,4
+825,,sales executive,2,1,2,,2,2,2,,3.0,True,,20,3,,4.0,3
+826,research & development,manufacturing director,2,3,3,,0,1,0,False,4.0,False,divorced,6,2,medical,7.0,6
+827,,manufacturing director,3,1,4,,0,3,2,False,3.0,True,,16,4,,18.0,2
+829,,research scientist,2,3,3,,2,2,2,False,4.0,False,,3,5,technical degree,19.0,3
+830,research & development,research scientist,1,3,3,,2,2,3,True,,False,divorced,5,3,technical degree,8.0,5
+832,research & development,research scientist,1,3,2,,2,2,1,True,3.0,False,,9,3,medical,,6
+833,research & development,research scientist,1,3,5,,0,2,2,True,3.0,False,married,21,3,medical,5.0,1
+834,,research scientist,1,3,5,,1,1,3,,3.0,False,,17,3,,6.0,0
+835,,research scientist,1,3,2,,2,2,3,True,3.0,False,divorced,8,3,life sciences,,4
+836,,laboratory technician,1,3,2,,2,1,3,True,,False,single,9,2,,,1
+837,,research scientist,1,3,4,,0,2,0,True,4.0,False,,12,1,medical,7.0,8
+838,,research scientist,1,3,3,,1,2,3,,3.0,False,,27,2,medical,9.0,2
+839,research & development,laboratory technician,1,2,3,,0,2,2,False,3.0,False,,1,3,,,2
+840,,manufacturing director,2,4,4,2.0,1,3,3,False,3.0,False,divorced,13,2,,5.0,1
+841,,laboratory technician,2,3,6,,1,2,5,True,3.0,False,single,24,3,medical,,5
+845,,healthcare representative,2,2,3,,0,2,5,True,3.0,False,,10,5,life sciences,5.0,9
+846,,healthcare representative,3,3,4,,0,3,3,True,3.0,False,,1,4,,17.0,7
+847,,research scientist,1,3,5,,0,4,5,,3.0,True,,3,3,technical degree,8.0,5
+849,,sales executive,2,3,6,,0,5,4,False,3.0,False,married,3,3,,16.0,2
+850,research & development,research scientist,1,2,3,,1,1,3,True,4.0,False,married,4,4,,,6
+851,,laboratory technician,1,2,2,,2,2,3,,3.0,False,single,2,3,,,7
+854,,laboratory technician,1,3,3,,1,2,1,False,3.0,False,divorced,24,4,medical,7.0,7
+856,,research director,3,3,2,,2,2,3,,3.0,False,divorced,3,4,medical,,9
+857,,research scientist,1,2,2,,0,2,2,True,3.0,False,married,5,4,life sciences,2.0,1
+858,,manufacturing director,2,4,3,,0,2,1,True,3.0,False,,23,4,life sciences,9.0,4
+859,research & development,research scientist,2,4,3,,0,2,1,,3.0,False,single,17,2,,,3
+860,,sales executive,2,3,3,,0,2,2,False,3.0,False,divorced,19,2,marketing,,2
+861,,manufacturing director,2,3,4,,1,2,3,False,3.0,False,married,1,3,,5.0,0
+862,,laboratory technician,2,2,6,,0,4,5,False,3.0,False,,2,1,,9.0,4
+864,,research scientist,1,2,3,,1,0,4,False,3.0,False,single,3,2,,,1
+865,,research director,3,3,5,,0,2,2,False,3.0,False,divorced,1,4,medical,,2
+866,,healthcare representative,2,3,2,,1,2,2,False,3.0,False,,23,4,life sciences,,9
+867,,laboratory technician,1,3,3,,0,2,2,False,3.0,True,divorced,16,4,medical,,2
+868,,research director,5,3,3,,1,2,4,,3.0,False,single,10,4,life sciences,,9
+870,,research scientist,1,3,4,,1,2,3,False,3.0,False,married,9,3,medical,,1
+871,research & development,research scientist,1,3,5,,0,3,4,True,3.0,False,marreid,11,4,,,0
+872,,human resources,2,2,2,,1,0,1,False,3.0,False,,2,3,human resources,,3
+874,,research scientist,2,2,8,,7,7,3,False,,True,,17,4,medical,11.0,2
+875,,research scientist,1,1,3,,2,2,4,,3.0,True,married,2,4,medical,,5
+876,,research director,5,3,3,,1,1,2,False,3.0,False,married,5,5,,21.0,4
+877,,laboratory technician,1,2,3,,2,2,2,,3.0,False,,9,5,other,4.0,0
+878,,manufacturing director,2,3,6,,0,4,2,True,3.0,False,,5,2,medical,8.0,7
+879,,research scientist,1,3,4,,0,2,2,False,3.0,False,,26,1,,,1
+880,human resources,human resources,1,3,3,,1,0,5,False,3.0,False,divorced,2,1,,4.0,0
+881,sales,sales executive,2,3,2,,2,2,2,False,3.0,False,,25,2,,4.0,7
+882,,sales representative,1,2,3,,1,2,3,True,3.0,True,single,31,1,,3.0,1
+883,,healthcare representative,2,3,3,,1,2,2,True,3.0,False,,1,4,medical,,2
+886,research & development,research scientist,1,3,3,,1,2,4,False,,False,,17,3,,6.0,9
+889,,research scientist,1,3,2,,2,2,3,True,3.0,False,married,2,3,,,4
+890,,sales executive,2,4,5,,0,4,3,True,3.0,True,,19,3,marketing,,8
+891,,sales executive,2,3,5,,0,3,2,,3.0,False,divorced,10,4,marketing,,1
+892,,laboratory technician,1,3,5,,1,2,5,True,3.0,False,,1,4,,8.0,3
+893,,research director,5,3,4,,1,2,4,False,3.0,False,married,5,2,medical,24.0,4
+894,,sales executive,2,3,3,,1,2,3,True,3.0,False,married,4,4,,,9
+895,,laboratory technician,1,3,3,,1,2,1,,4.0,False,,21,3,,,7
+896,,healthcare representative,2,3,5,,0,2,3,True,3.0,False,,8,4,other,,4
+897,,laboratory technician,1,2,4,,3,2,3,False,3.0,False,married,1,2,,4.0,1
+899,,research scientist,1,3,2,,0,2,3,True,,False,married,10,2,life sciences,8.0,3
+901,,sales representative,1,1,2,,1,0,3,,3.0,True,,6,2,,3.0,0
+903,,research director,3,2,10,,0,7,2,True,3.0,False,,3,4,,,1
+906,,sales executive,3,2,3,,1,2,3,False,3.0,False,,10,3,marketing,15.0,2
+907,sales,sales representative,1,3,3,,1,2,3,,3.0,False,single,7,1,marketing,,0
+909,,laboratory technician,1,3,2,,2,0,4,True,3.0,False,married,5,2,other,,4
+910,research & development,laboratory technician,1,2,2,,1,2,3,True,3.0,True,single,25,1,technical degree,4.0,5
+911,,manufacturing director,2,3,3,2.0,1,2,2,True,3.0,False,divorced,19,3,technical degree,8.0,4
+912,research & development,healthcare representative,3,3,2,,1,2,3,True,3.0,False,married,18,1,medical,,5
+913,sales,sales executive,2,4,4,,1,2,2,True,3.0,True,,11,4,other,,8
+914,,sales representative,1,3,2,,2,1,3,False,3.0,False,,24,3,medical,3.0,0
+915,,laboratory technician,2,2,3,,0,2,3,False,3.0,False,single,25,2,,,4
+916,,healthcare representative,2,3,10,,2,2,4,True,3.0,False,married,2,4,life sciences,10.0,1
+917,,manager,4,2,3,,0,2,3,True,3.0,False,married,1,4,,21.0,7
+918,,human resources,2,2,2,2.0,0,2,1,,,False,,1,4,,10.0,4
+919,sales,sales representative,1,3,8,,0,6,3,,3.0,False,,14,3,,8.0,1
+921,,manager,5,3,2,,0,1,2,True,3.0,False,,3,4,,26.0,4
+922,,research scientist,1,3,2,,2,2,3,,4.0,False,married,6,1,medical,,0
+923,,laboratory technician,1,3,3,,0,2,2,False,,False,,6,3,,,1
+924,,manufacturing director,2,2,3,,0,2,2,True,3.0,False,,9,2,medical,13.0,2
+926,,research scientist,1,4,3,,0,2,3,False,3.0,False,,4,3,,5.0,2
+927,,sales executive,2,4,3,,1,2,4,False,4.0,False,,8,3,life sciences,4.0,0
+928,,sales executive,2,4,2,,2,2,3,True,3.0,False,marreid,14,1,,,3
+930,,sales executive,2,3,2,,2,2,1,False,3.0,False,single,16,4,,10.0,8
+931,,sales representative,1,3,2,,2,2,2,,3.0,False,married,8,4,marketing,4.0,7
+932,,laboratory technician,1,1,5,,1,4,5,False,3.0,False,single,24,3,,9.0,2
+933,,sales executive,4,3,22,,11,13,2,True,3.0,False,divorced,3,3,,28.0,9
+934,,research scientist,1,4,2,,2,2,2,True,3.0,True,divorced,19,3,,,6
+935,,sales executive,2,2,2,,2,2,5,,,False,married,15,3,life sciences,7.0,3
+938,,laboratory technician,2,3,2,,2,2,4,False,3.0,False,single,6,3,,19.0,2
+941,,laboratory technician,1,1,2,,2,0,2,True,3.0,False,,1,2,life sciences,,3
+942,,research scientist,1,4,4,,1,3,2,False,3.0,False,single,1,4,,,2
+943,,sales executive,2,3,4,,1,1,3,True,3.0,False,married,8,1,marketing,5.0,0
+945,,laboratory technician,1,1,2,,0,2,2,True,,False,married,18,3,,7.0,3
+947,research & development,laboratory technician,2,3,5,,1,4,3,True,4.0,False,,25,4,life sciences,9.0,8
+948,,sales executive,2,3,3,,0,2,3,False,3.0,True,single,16,3,marketing,,5
+952,research & development,research scientist,1,2,5,,1,3,3,,3.0,False,single,16,4,,6.0,1
+953,,human resources,1,3,3,,0,2,1,False,3.0,False,,3,2,,4.0,0
+954,,healthcare representative,2,3,5,,2,3,2,True,3.0,False,single,4,3,,10.0,9
+955,,sales executive,2,3,5,,0,3,3,,3.0,False,divorced,13,4,life sciences,8.0,2
+957,,manufacturing director,2,2,2,,2,2,2,False,4.0,False,,1,2,life sciences,4.0,6
+958,,laboratory technician,1,4,3,,0,2,2,False,4.0,False,,8,4,life sciences,10.0,2
+959,,research scientist,1,3,10,,7,8,3,,3.0,True,divorced,25,4,life sciences,10.0,1
+960,,sales executive,2,2,5,,0,3,1,False,3.0,False,,4,1,,5.0,1
+962,,laboratory technician,1,2,5,,3,4,2,False,3.0,False,,19,1,life sciences,,0
+963,sales,sales representative,1,2,2,,1,2,3,True,3.0,False,,9,3,marketing,3.0,0
+964,,sales representative,1,2,3,,0,2,3,False,3.0,True,,1,3,medical,5.0,6
+965,,healthcare representative,2,3,5,,2,2,2,True,3.0,False,married,1,3,life sciences,12.0,4
+966,,sales executive,2,3,4,,0,2,3,False,3.0,False,single,5,4,medical,4.0,1
+967,,sales representative,1,2,2,,0,2,3,True,3.0,True,single,2,3,,2.0,1
+968,,sales representative,1,2,3,,1,2,3,True,3.0,False,single,2,4,life sciences,3.0,1
+970,,research scientist,1,3,2,,2,2,2,True,3.0,False,divorced,9,3,medical,6.0,5
+972,research & development,research scientist,1,2,3,,0,2,1,False,3.0,False,single,1,4,,,3
+974,,sales executive,2,3,5,,1,0,3,True,3.0,False,,48,3,,5.0,1
+975,,research scientist,1,2,3,,1,2,0,False,4.0,True,single,9,2,medical,4.0,0
+976,,research scientist,1,3,3,,0,2,4,False,3.0,False,single,13,1,life sciences,5.0,3
+977,,laboratory technician,1,3,2,,2,2,2,False,3.0,False,marreid,24,4,,4.0,9
+980,research & development,laboratory technician,1,2,4,,0,2,2,False,4.0,True,divorced,14,4,other,5.0,1
+981,,laboratory technician,1,3,3,,1,2,3,,3.0,True,,5,3,,4.0,0
+982,research & development,healthcare representative,2,2,2,,2,2,0,True,3.0,False,,6,3,,19.0,2
+984,research & development,manufacturing director,2,3,3,,2,2,2,True,3.0,False,,2,4,,,0
+985,research & development,laboratory technician,1,3,3,,1,2,4,False,4.0,False,,10,3,other,3.0,1
+986,,sales executive,2,1,2,,2,2,6,True,3.0,True,single,29,2,medical,,8
+987,sales,sales representative,1,2,2,,2,2,2,False,3.0,False,,8,1,life sciences,,0
+988,,research scientist,1,3,3,,1,2,2,True,3.0,True,married,2,3,life sciences,6.0,6
+990,,research director,5,3,2,,2,2,0,,3.0,False,,47,4,medical,23.0,9
+991,,sales representative,1,3,2,,0,2,3,True,3.0,True,single,9,3,marketing,2.0,1
+992,,manufacturing director,2,3,6,,0,2,1,False,3.0,False,marreid,20,3,other,7.0,0
+993,,laboratory technician,1,1,3,,1,2,4,False,3.0,False,married,8,5,,3.0,1
+994,,manufacturing director,3,3,3,,1,2,4,True,3.0,False,married,2,1,,23.0,3
+995,,healthcare representative,3,2,3,,1,2,2,True,3.0,False,,5,3,life sciences,,4
+996,,laboratory technician,1,3,4,,2,2,5,True,3.0,False,,15,2,life sciences,4.0,1
+997,,healthcare representative,2,3,6,,0,4,1,True,3.0,False,,3,1,life sciences,,0
+998,,research scientist,1,2,2,,2,2,0,False,4.0,True,single,25,3,medical,5.0,4
+999,,sales executive,2,3,3,,0,2,3,False,3.0,False,married,7,3,life sciences,4.0,0
+1000,,research scientist,1,2,2,,2,2,6,,3.0,False,single,1,1,,2.0,1
+1001,,sales representative,1,4,2,,2,2,4,True,,False,married,20,3,,3.0,0
+1003,,manufacturing director,2,3,3,,0,2,3,True,3.0,False,single,2,2,,,2
+1004,,sales executive,2,3,5,,0,3,3,False,3.0,True,single,9,4,,6.0,0
+1005,research & development,laboratory technician,1,3,2,,2,2,5,True,3.0,True,,15,3,medical,,1
+1006,,healthcare representative,2,2,6,,1,3,2,,3.0,False,,25,2,,9.0,7
+1007,,research scientist,1,2,4,2.0,2,2,0,True,,False,married,6,3,,4.0,1
+1008,,laboratory technician,1,2,2,,2,2,2,,3.0,False,married,4,4,other,2.0,1
+1010,research & development,research scientist,1,3,3,,0,2,2,True,3.0,False,,7,3,medical,,4
+1013,,research director,5,3,4,,0,3,2,True,3.0,False,,15,2,life sciences,25.0,5
+1014,,laboratory technician,1,2,2,,2,2,2,True,4.0,False,married,13,3,other,2.0,1
+1019,,laboratory technician,1,3,4,,0,2,2,False,3.0,False,single,1,4,medical,,0
+1020,,research scientist,1,3,3,,2,2,3,False,,False,married,6,1,life sciences,4.0,0
+1022,,research scientist,1,3,3,,1,2,2,False,3.0,False,single,1,3,technical degree,5.0,2
+1023,research & development,research scientist,1,3,2,,2,1,3,False,3.0,False,single,1,3,medical,,1
+1024,,research scientist,1,3,2,,2,2,3,True,3.0,False,,23,4,life sciences,,1
+1026,,laboratory technician,2,2,9,,6,7,6,,3.0,False,married,6,3,technical degree,10.0,0
+1027,,research director,4,3,3,,1,2,2,True,3.0,False,marreid,46,3,life sciences,,4
+1028,,sales executive,2,1,19,,11,9,4,True,3.0,False,single,10,2,medical,19.0,1
+1029,,sales representative,1,3,3,,2,2,2,False,3.0,True,,1,3,,,1
+1030,,laboratory technician,1,3,3,,1,2,4,True,,True,,3,3,life sciences,10.0,4
+1032,research & development,laboratory technician,1,3,3,,1,2,6,False,3.0,False,married,19,1,medical,,3
+1033,,laboratory technician,1,3,4,,0,3,3,True,4.0,False,,1,4,life sciences,7.0,3
+1035,,sales executive,2,1,6,,0,0,3,False,4.0,False,single,2,1,life sciences,,3
+1036,,sales executive,2,3,4,,3,2,0,True,3.0,True,married,18,4,marketing,5.0,0
+1038,,manufacturing director,2,3,10,,6,7,3,,3.0,True,married,22,4,,10.0,1
+1040,,research scientist,2,3,6,,3,3,4,False,3.0,False,,22,3,,12.0,3
+1041,,sales executive,2,3,3,,1,2,3,True,3.0,False,married,2,1,marketing,4.0,0
+1043,,sales executive,2,2,6,2.0,4,4,3,True,3.0,False,married,10,3,marketing,,1
+1044,,research scientist,1,3,8,,7,7,2,True,,True,single,22,4,life sciences,8.0,1
+1045,,laboratory technician,1,3,3,,0,2,6,,3.0,False,single,11,3,medical,8.0,4
+1046,,manufacturing director,3,3,2,,2,2,2,True,3.0,False,,18,2,life sciences,10.0,2
+1047,,laboratory technician,1,3,3,,0,2,2,,3.0,False,,1,3,,7.0,4
+1048,,sales executive,2,3,3,,0,2,3,True,3.0,False,divorced,7,4,marketing,,7
+1050,,sales executive,2,2,3,,0,2,3,False,3.0,False,,16,4,marketing,11.0,4
+1051,,sales representative,1,2,3,,2,2,2,,3.0,True,,9,2,,6.0,3
+1052,,research scientist,1,3,3,,1,0,3,,4.0,False,,1,2,life sciences,5.0,2
+1053,,research scientist,1,4,4,,0,3,5,True,3.0,False,,5,5,medical,7.0,2
+1055,research & development,laboratory technician,1,3,2,2.0,2,2,2,True,3.0,True,,2,3,life sciences,7.0,6
+1056,sales,sales executive,2,3,2,,2,2,3,False,3.0,False,divorced,7,3,marketing,,4
+1057,,human resources,1,3,2,,2,2,0,False,3.0,True,married,9,4,,2.0,1
+1058,,laboratory technician,1,2,5,,0,3,5,False,3.0,False,single,5,3,life sciences,7.0,3
+1059,research & development,healthcare representative,2,3,3,,1,2,0,True,,False,married,5,4,,20.0,2
+1060,,research scientist,1,3,5,,1,3,3,False,3.0,False,,20,3,life sciences,6.0,1
+1061,,sales representative,1,3,3,,1,2,3,False,3.0,True,married,1,3,,5.0,3
+1064,,sales executive,2,3,4,,1,3,5,,3.0,False,single,7,3,life sciences,5.0,0
+1065,,laboratory technician,2,2,3,,1,2,3,,4.0,False,marreid,45,2,medical,10.0,4
+1066,,laboratory technician,1,3,3,,0,2,3,False,3.0,False,,2,1,life sciences,,0
+1067,,manager,3,3,5,,0,0,5,,,False,,10,3,,10.0,2
+1068,,research scientist,1,3,7,,7,7,2,True,3.0,True,,3,3,life sciences,7.0,1
+1069,,healthcare representative,2,3,2,,2,2,2,False,3.0,False,divorced,43,2,life sciences,8.0,3
+1071,,sales executive,2,3,2,,2,2,6,False,3.0,False,,8,4,life sciences,,2
+1072,sales,sales executive,3,3,4,,1,3,3,,3.0,False,marreid,14,4,,9.0,3
+1073,,manufacturing director,2,3,5,,1,4,2,False,3.0,True,married,2,3,medical,,4
+1074,research & development,research scientist,1,3,8,,7,6,3,,3.0,False,married,15,4,,,8
+1075,research & development,research scientist,2,3,2,,2,1,3,True,3.0,False,,1,4,,,9
+1076,,sales executive,2,3,3,,1,2,5,False,3.0,False,single,16,3,life sciences,8.0,2
+1077,,healthcare representative,2,3,5,,0,4,4,,3.0,False,single,10,4,,,3
+1078,,research scientist,1,4,2,,2,2,2,True,3.0,False,married,10,3,,4.0,2
+1079,,laboratory technician,2,4,3,,0,2,3,False,3.0,False,,6,4,,9.0,3
+1080,,healthcare representative,2,2,8,,7,7,3,False,3.0,False,,36,4,,8.0,1
+1082,,research scientist,1,4,3,,0,2,3,True,3.0,False,married,5,4,,6.0,3
+1085,,research scientist,1,3,2,,2,2,2,False,3.0,False,single,19,1,medical,,1
+1088,,manufacturing director,3,3,4,,3,3,2,True,,False,,16,3,,18.0,6
+1089,,manager,4,2,2,,2,2,3,True,4.0,False,,4,5,,,2
+1090,,sales executive,2,1,2,,2,2,2,False,3.0,True,,10,2,medical,,6
+1091,research & development,research scientist,1,4,3,,0,2,0,False,3.0,False,,8,3,medical,5.0,7
+1092,,research scientist,1,3,4,,1,2,0,True,3.0,False,single,2,3,medical,,2
+1095,,healthcare representative,3,3,3,,0,2,6,True,,False,married,5,4,life sciences,9.0,4
+1096,,research director,4,3,4,,1,2,2,,3.0,False,married,22,4,other,27.0,3
+1097,,sales representative,1,3,2,,2,2,3,,3.0,False,single,13,3,medical,2.0,1
+1098,research & development,manufacturing director,2,2,3,,1,2,6,True,3.0,False,,1,4,,4.0,0
+1099,,sales executive,2,3,6,,0,4,5,,3.0,False,,2,4,,6.0,1
+1100,,laboratory technician,1,3,2,,2,2,2,True,3.0,False,divorced,16,3,medical,17.0,4
+1103,,healthcare representative,2,3,3,,0,2,2,False,3.0,False,married,26,4,,10.0,6
+1104,human resources,human resources,1,3,2,,2,2,2,False,3.0,False,,1,3,,8.0,4
+1105,,research scientist,1,2,4,,1,2,1,,,False,divorced,12,3,technical degree,8.0,5
+1106,,sales representative,1,3,3,,0,2,2,False,4.0,True,divorced,7,3,life sciences,3.0,1
+1109,,laboratory technician,1,3,5,,0,3,2,False,3.0,False,married,2,4,life sciences,6.0,1
+1110,human resources,human resources,2,1,3,,1,2,4,False,,False,married,4,3,human resources,,6
+1112,,sales executive,2,2,2,,2,2,3,True,3.0,True,,13,5,marketing,16.0,5
+1113,,laboratory technician,1,3,3,2.0,1,2,3,False,3.0,False,single,4,1,,3.0,1
+1114,,human resources,1,3,2,,2,1,2,False,3.0,False,marreid,35,3,medical,3.0,0
+1117,,research scientist,1,3,6,,1,4,5,False,3.0,False,,48,3,,6.0,1
+1119,,healthcare representative,2,4,3,,0,2,5,False,3.0,False,,1,3,,10.0,8
+1123,sales,sales executive,2,2,5,,0,3,2,False,3.0,False,,9,2,marketing,,1
+1124,,sales executive,2,2,2,,2,2,3,False,3.0,False,,26,2,life sciences,6.0,8
+1125,research & development,research scientist,1,3,3,,1,2,2,True,3.0,False,,9,3,,,4
+1126,,healthcare representative,2,4,3,,1,2,3,False,3.0,False,single,35,3,,,3
+1127,,sales executive,3,3,3,,2,2,3,False,3.0,False,,7,4,,9.0,2
+1128,,research scientist,1,3,3,,1,2,3,False,4.0,False,,1,3,medical,,1
+1129,sales,sales representative,2,1,4,,0,3,4,True,4.0,False,,2,4,,20.0,2
+1130,research & development,research director,4,3,2,,2,2,3,True,3.0,False,married,15,4,life sciences,23.0,2
+1131,,human resources,1,2,2,,2,0,3,False,3.0,True,divorced,13,3,,,4
+1132,,laboratory technician,1,3,2,,2,0,2,False,3.0,False,single,9,4,life sciences,,4
+1133,,human resources,1,3,3,,2,2,2,,3.0,False,,1,2,life sciences,3.0,1
+1136,,research scientist,1,2,5,,0,4,2,False,4.0,False,,2,4,,,8
+1137,,laboratory technician,1,3,3,,1,2,2,True,3.0,False,single,7,3,life sciences,,3
+1138,,manufacturing director,2,2,3,,0,2,2,False,3.0,False,marreid,16,2,other,4.0,0
+1139,,research scientist,1,1,5,,3,0,2,,4.0,True,,16,4,technical degree,,1
+1140,,laboratory technician,1,3,4,,1,0,3,True,3.0,True,single,24,2,,5.0,1
+1141,,sales executive,2,2,4,,1,3,1,True,3.0,False,,17,2,marketing,,2
+1145,,healthcare representative,2,3,4,,0,3,3,True,3.0,False,single,1,4,medical,12.0,4
+1146,,sales executive,2,1,3,,1,2,1,False,,False,,21,4,,10.0,6
+1148,,research scientist,1,3,4,,2,3,3,True,,False,divorced,3,2,,4.0,1
+1150,human resources,human resources,1,3,6,,1,2,2,False,3.0,False,,1,4,other,,0
+1151,,manufacturing director,2,3,5,,1,4,3,False,,False,single,10,3,,9.0,6
+1152,,laboratory technician,1,3,5,,1,4,6,True,3.0,False,single,12,2,,,1
+1153,,laboratory technician,1,3,2,,0,2,2,True,3.0,False,,2,1,other,,6
+1154,,sales representative,1,3,2,,1,2,1,True,3.0,False,,2,2,life sciences,,0
+1155,,laboratory technician,1,3,2,,2,2,3,,3.0,False,married,11,4,medical,,7
+1156,research & development,research scientist,1,3,3,,1,2,2,True,,False,,1,2,,,0
+1157,,laboratory technician,1,2,6,,4,1,3,False,3.0,False,single,29,4,,6.0,1
+1161,,research scientist,1,3,2,,2,2,3,True,3.0,True,marreid,38,4,,4.0,9
+1162,,research scientist,1,3,4,,1,2,4,,3.0,False,,2,3,technical degree,,1
+1163,,research scientist,1,2,2,,2,2,2,True,3.0,False,,2,4,,8.0,2
+1165,sales,sales executive,3,2,3,,2,0,3,True,3.0,True,,40,3,marketing,20.0,4
+1166,,sales representative,1,2,4,,0,0,2,True,3.0,False,single,5,3,other,,0
+1167,,laboratory technician,2,4,5,,0,3,3,False,3.0,False,,23,2,medical,17.0,4
+1168,,manufacturing director,2,4,6,,0,3,0,False,4.0,False,,4,3,life sciences,6.0,1
+1169,,laboratory technician,1,3,1,1.0,0,0,3,False,3.0,False,,2,3,medical,7.0,4
+1170,,research scientist,1,2,1,,0,0,3,True,3.0,False,married,5,4,life sciences,,9
+1171,research & development,research scientist,1,3,1,,1,0,4,,3.0,False,single,1,4,medical,1.0,1
+1172,research & development,laboratory technician,1,3,2,,2,1,2,True,3.0,False,,2,1,technical degree,3.0,0
+1173,,research scientist,1,2,1,,0,1,2,True,3.0,False,divorced,3,3,,1.0,1
+1174,,research scientist,1,3,3,,0,2,2,True,3.0,False,,2,3,life sciences,4.0,0
+1175,,laboratory technician,1,3,8,,1,7,2,True,3.0,False,single,18,1,,8.0,1
+1176,,research scientist,1,2,3,,0,2,2,True,,False,,18,2,medical,,2
+1179,,healthcare representative,4,2,7,,0,7,2,True,3.0,False,,45,2,technical degree,,7
+1180,,healthcare representative,2,2,1,,0,0,5,True,3.0,False,single,9,4,,,9
+1181,,research scientist,1,3,2,,1,2,1,False,3.0,False,married,11,3,medical,2.0,1
+1182,,research director,4,4,6,1.0,0,5,2,False,3.0,False,,1,5,,10.0,4
+1183,sales,sales executive,2,3,3,,1,2,2,False,3.0,True,divorced,13,4,medical,,2
+1184,,sales executive,2,3,1,,0,0,4,True,3.0,True,,26,4,,5.0,2
+1185,,research director,4,4,5,,1,3,3,True,3.0,False,married,7,3,,32.0,3
+1186,,healthcare representative,2,3,5,,4,3,2,,3.0,False,,8,2,,10.0,3
+1188,,human resources,1,2,5,,0,4,6,True,3.0,False,divorced,8,2,medical,6.0,1
+1189,research & development,research scientist,1,3,2,,2,2,2,True,3.0,False,single,2,1,,8.0,5
+1191,,research scientist,1,3,1,,0,0,2,True,,False,,9,4,,3.0,8
+1192,,sales executive,3,2,14,,11,7,2,,3.0,True,married,1,4,life sciences,,5
+1194,research & development,research scientist,1,3,2,,0,2,0,False,3.0,False,married,10,1,,3.0,0
+1196,,sales representative,1,3,1,,0,0,2,False,3.0,False,married,10,4,life sciences,1.0,1
+1197,,research director,5,3,8,,7,7,2,False,3.0,False,marreid,12,4,medical,29.0,2
+1198,,laboratory technician,1,3,1,,0,0,0,False,,True,,21,3,,1.0,1
+1201,,research scientist,2,2,1,,0,0,3,True,3.0,False,marreid,29,2,medical,16.0,3
+1202,,research scientist,1,3,1,,0,0,4,False,,False,single,47,2,,1.0,1
+1203,,sales representative,1,4,2,,2,2,2,True,3.0,False,single,21,3,marketing,2.0,1
+1206,,sales executive,2,2,6,,0,5,2,False,3.0,False,single,3,3,,13.0,5
+1207,research & development,manager,3,3,9,,0,8,2,False,4.0,False,,17,4,medical,,1
+1208,,manufacturing director,3,3,3,,1,2,4,,,False,married,29,3,,,4
+1210,,sales executive,2,3,2,,2,2,2,False,,False,,42,1,life sciences,4.0,8
+1211,research & development,laboratory technician,1,2,1,,0,0,3,False,,False,,24,2,technical degree,,0
+1212,,research scientist,2,2,7,,2,5,2,,3.0,False,married,5,2,life sciences,12.0,3
+1213,,laboratory technician,1,3,1,,0,0,3,False,3.0,True,married,24,3,medical,,1
+1214,sales,sales executive,2,3,5,,0,4,1,,3.0,False,single,11,4,,8.0,3
+1215,research & development,laboratory technician,1,2,6,,0,5,4,False,3.0,False,married,2,2,medical,9.0,4
+1216,,research director,5,3,2,,2,2,3,True,3.0,False,,2,4,,24.0,7
+1217,,laboratory technician,2,3,7,,0,7,3,False,3.0,True,,9,4,life sciences,,4
+1218,,sales executive,2,3,2,,2,2,6,False,3.0,False,,20,3,life sciences,7.0,2
+1219,human resources,human resources,1,3,5,,1,4,3,True,3.0,True,married,20,2,,6.0,0
+1220,,research scientist,2,3,7,,1,7,2,False,3.0,False,married,7,4,medical,14.0,4
+1221,,human resources,2,2,10,,0,8,2,,4.0,False,,2,1,,10.0,1
+1222,research & development,research scientist,1,4,4,,0,3,2,False,3.0,True,,5,2,,8.0,3
+1225,,laboratory technician,1,2,1,,0,0,2,False,3.0,False,divorced,1,2,medical,,1
+1226,,laboratory technician,1,2,0,,0,0,3,,3.0,True,single,2,2,,7.0,6
+1227,,laboratory technician,1,4,1,,0,0,3,,,False,,3,3,medical,12.0,4
+1230,,research scientist,1,3,0,,0,0,6,True,3.0,False,single,15,2,,0.0,1
+1231,,laboratory technician,1,2,10,,1,8,5,False,3.0,False,,9,2,medical,10.0,1
+1232,,sales representative,2,3,1,,0,0,6,,3.0,True,marreid,18,3,technical degree,19.0,3
+1234,research & development,laboratory technician,1,3,1,,0,0,3,True,3.0,False,divorced,4,2,other,1.0,1
+1235,,laboratory technician,1,3,1,,0,0,6,False,3.0,False,divorced,2,4,life sciences,,1
+1236,,laboratory technician,1,1,1,,0,1,2,False,3.0,True,single,25,3,life sciences,1.0,1
+1239,,laboratory technician,3,2,1,,0,0,2,False,3.0,True,,1,2,,,9
+1240,,healthcare representative,3,2,4,,2,3,3,,3.0,False,married,11,2,medical,10.0,2
+1241,,manager,4,3,5,,0,2,2,True,3.0,False,divorced,8,3,,21.0,2
+1244,research & development,laboratory technician,1,4,1,,0,0,3,True,3.0,False,,6,3,life sciences,,3
+1246,,sales executive,3,3,1,,1,0,4,True,3.0,False,married,1,2,,,3
+1247,,sales representative,1,3,0,,0,0,3,False,3.0,False,divorced,2,1,technical degree,,3
+1249,research & development,laboratory technician,1,2,1,,1,0,5,False,,True,single,6,3,life sciences,,1
+1250,,healthcare representative,2,2,1,,0,0,2,False,3.0,False,divorced,2,2,life sciences,17.0,5
+1251,research & development,laboratory technician,1,3,0,,0,0,5,False,3.0,False,single,15,3,,,1
+1253,,laboratory technician,1,3,1,,0,0,2,False,4.0,False,divorced,3,2,life sciences,,5
+1254,sales,sales representative,1,3,0,,0,0,2,True,3.0,True,single,22,1,marketing,0.0,1
+1255,,laboratory technician,1,3,5,,1,4,2,,4.0,False,,9,4,life sciences,7.0,2
+1256,,laboratory technician,1,3,1,,0,0,3,False,,False,single,18,1,,1.0,1
+1257,,manufacturing director,2,2,1,,0,0,2,True,3.0,False,married,7,4,,10.0,2
+1258,,research scientist,1,2,1,,0,0,3,False,4.0,False,married,9,3,,9.0,4
+1260,,laboratory technician,1,2,1,,1,0,3,True,4.0,True,single,2,3,life sciences,1.0,1
+1262,,manufacturing director,2,3,1,,0,0,3,False,3.0,False,,38,4,,14.0,9
+1263,,healthcare representative,2,3,1,,0,0,2,False,,True,married,29,1,medical,17.0,7
+1265,,research scientist,1,2,1,,0,0,6,True,3.0,False,married,3,3,life sciences,7.0,3
+1266,,manager,5,3,7,,0,6,3,False,3.0,False,divorced,1,4,medical,,3
+1267,research & development,research scientist,2,3,1,,0,0,2,True,3.0,False,divorced,19,2,life sciences,17.0,2
+1269,,manufacturing director,3,3,1,,0,0,5,True,,True,,10,3,medical,17.0,6
+1271,,laboratory technician,1,3,0,,0,0,5,False,3.0,True,single,2,4,life sciences,5.0,2
+1273,research & development,healthcare representative,2,2,9,,7,8,2,,,False,,23,3,medical,10.0,0
+1275,,laboratory technician,1,3,1,,0,0,0,True,4.0,True,,12,3,life sciences,19.0,3
+1276,,research scientist,2,3,8,,7,7,2,True,3.0,False,single,3,3,technical degree,10.0,4
+1278,,laboratory technician,1,4,1,,0,0,2,,3.0,False,married,18,4,life sciences,4.0,4
+1280,,sales executive,2,3,1,,0,0,3,,3.0,True,married,3,2,,12.0,4
+1283,,research director,4,3,1,,0,0,2,False,3.0,False,single,23,5,,16.0,2
+1284,,laboratory technician,1,3,8,,0,7,4,,,False,married,2,3,,8.0,1
+1285,,manager,3,3,0,,0,0,3,True,4.0,False,married,29,1,medical,15.0,3
+1286,research & development,healthcare representative,2,2,1,,0,0,6,False,4.0,False,,2,4,,,3
+1287,,sales executive,2,3,1,,0,0,6,True,,False,,1,5,medical,,4
+1288,,sales representative,1,3,1,,0,0,2,False,,True,single,5,3,marketing,1.0,1
+1289,research & development,manufacturing director,2,3,1,,0,0,2,,3.0,False,married,7,4,medical,7.0,2
+1290,sales,sales representative,1,4,1,,0,0,0,False,3.0,True,single,12,3,life sciences,1.0,1
+1291,,sales representative,1,3,1,,0,0,3,True,3.0,False,,2,1,technical degree,,1
+1292,,research scientist,1,3,1,,0,0,4,False,4.0,True,single,4,3,,3.0,9
+1293,,manufacturing director,2,3,1,,0,1,2,,3.0,False,single,10,4,,18.0,2
+1296,,laboratory technician,1,3,1,,0,0,3,False,4.0,False,married,2,2,,,1
+1297,,human resources,1,2,1,,0,0,3,,3.0,True,single,2,2,technical degree,1.0,1
+1298,,manager,4,2,1,,0,0,3,True,3.0,False,divorced,29,3,,,3
+1302,,sales representative,1,3,0,,0,0,3,False,3.0,True,,5,3,marketing,,1
+1303,,sales executive,3,1,1,,0,1,2,,3.0,False,,28,3,other,20.0,3
+1305,research & development,laboratory technician,1,1,1,,0,0,3,True,3.0,True,single,24,3,,1.0,1
+1307,,laboratory technician,1,2,1,,0,0,2,True,4.0,False,married,17,2,other,1.0,1
+1308,,sales representative,1,2,1,,0,0,2,,3.0,True,married,12,4,,1.0,1
+1309,,sales executive,2,3,3,,1,0,3,False,3.0,False,married,2,3,marketing,,4
+1310,research & development,research scientist,1,2,1,,0,0,0,True,,False,,1,3,life sciences,1.0,1
+1311,,research director,4,2,1,,0,0,3,False,3.0,False,divorced,14,4,other,21.0,4
+1312,,research scientist,1,3,0,,0,0,3,True,3.0,False,,27,1,life sciences,8.0,3
+1315,sales,sales executive,2,3,6,,1,2,5,False,3.0,False,,44,2,medical,,1
+1316,,research scientist,1,3,1,,1,1,5,True,3.0,True,single,10,1,medical,,1
+1317,,laboratory technician,1,2,1,,0,0,3,False,3.0,False,marreid,20,3,,1.0,1
+1318,,research scientist,1,4,1,,0,0,2,True,3.0,False,single,10,2,life sciences,,3
+1319,,manufacturing director,3,3,1,,0,0,4,True,,False,single,1,3,,10.0,4
+1320,,sales representative,1,3,1,,0,0,6,False,3.0,False,single,10,3,,1.0,1
+1322,,research scientist,1,3,1,,0,1,0,True,3.0,False,married,2,5,medical,,6
+1323,,manufacturing director,2,3,0,,0,0,3,True,3.0,False,,8,5,life sciences,,3
+1324,,laboratory technician,1,4,0,,0,0,2,False,4.0,True,,6,3,life sciences,1.0,1
+1325,,laboratory technician,1,2,1,,0,0,4,False,3.0,False,divorced,9,3,life sciences,,1
+1326,,laboratory technician,1,2,1,,0,0,1,True,3.0,True,married,1,2,life sciences,1.0,1
+1327,,laboratory technician,2,2,1,,0,0,6,True,3.0,False,,16,4,medical,10.0,6
+1328,research & development,manufacturing director,2,2,0,,0,0,4,True,4.0,False,single,2,3,,12.0,5
+1329,,research scientist,1,2,1,,0,0,3,,3.0,False,,2,3,,1.0,1
+1333,,sales executive,4,3,2,,2,2,3,True,3.0,False,married,8,3,marketing,28.0,5
+1334,,sales executive,3,3,10,,0,9,2,False,3.0,False,single,19,2,,,1
+1335,,laboratory technician,1,3,1,,0,1,2,True,4.0,True,,25,4,,1.0,1
+1336,,laboratory technician,1,2,1,,0,0,3,,3.0,True,divorced,2,1,,3.0,9
+1338,research & development,research scientist,1,3,1,,0,0,3,False,,True,single,18,1,other,,1
+1339,,laboratory technician,1,3,1,,1,0,3,True,3.0,False,,48,3,life sciences,1.0,1
+1340,,healthcare representative,3,2,6,,0,4,3,False,,False,divorced,5,3,,24.0,2
+1341,,research scientist,1,3,0,,0,0,2,False,3.0,False,married,20,4,medical,13.0,4
+1342,,laboratory technician,1,2,3,,0,2,3,,,False,married,1,3,life sciences,5.0,6
+1343,,sales representative,1,2,1,,0,0,2,False,,True,married,19,2,marketing,,1
+1344,sales,sales executive,3,2,1,,0,0,2,True,3.0,False,divorced,10,4,marketing,11.0,2
+1345,,sales representative,1,2,1,,0,0,3,False,3.0,True,single,21,3,other,1.0,1
+1349,,sales executive,4,4,1,,0,0,2,True,3.0,True,single,24,3,,22.0,4
+1350,,research scientist,1,2,0,,0,0,5,True,4.0,True,single,10,3,,3.0,6
+1351,,sales executive,2,3,9,,0,7,0,False,3.0,False,single,18,2,life sciences,9.0,1
+1352,,research scientist,1,3,0,,0,0,2,,3.0,False,,5,2,,,1
+1354,,manager,5,3,1,,0,0,3,True,3.0,False,,5,2,,21.0,6
+1356,,healthcare representative,2,1,1,,0,0,2,True,3.0,True,,11,2,medical,15.0,5
+1358,,laboratory technician,2,3,1,,0,0,3,,3.0,True,divorced,15,3,,9.0,7
+1359,sales,sales representative,1,3,1,,0,0,5,True,4.0,False,married,10,1,medical,,1
+1360,,sales executive,3,2,1,,0,0,5,True,3.0,False,,25,3,,18.0,5
+1361,research & development,laboratory technician,1,2,1,,1,0,6,True,,True,single,10,3,,1.0,1
+1362,,research scientist,1,3,10,,2,7,2,False,,True,married,4,4,,18.0,9
+1363,sales,sales executive,2,2,1,,0,0,5,False,,False,divorced,10,4,,8.0,2
+1364,research & development,laboratory technician,1,2,1,,0,0,2,False,,True,divorced,1,3,medical,,1
+1365,,sales executive,2,3,0,,0,0,4,,3.0,True,single,1,4,,5.0,3
+1366,,research scientist,1,2,0,,0,0,2,True,3.0,False,,3,4,,6.0,3
+1367,,sales executive,3,3,1,,0,0,2,True,3.0,False,single,2,2,marketing,,7
+1369,,laboratory technician,1,3,0,,0,0,0,True,3.0,True,single,8,1,,,1
+1370,,laboratory technician,1,3,1,,0,0,4,False,3.0,False,,12,4,,6.0,3
+1371,research & development,laboratory technician,1,2,8,,1,7,2,True,3.0,False,,1,4,medical,,6
+1372,sales,sales representative,1,3,1,,0,0,3,,3.0,False,,2,1,,1.0,1
+1374,,research scientist,1,1,0,,0,0,3,True,,False,single,26,3,,6.0,2
+1375,,research scientist,1,2,1,,0,0,2,True,3.0,True,,5,2,life sciences,5.0,6
+1378,,research director,3,3,1,,0,0,6,False,3.0,False,married,26,5,medical,,3
+1379,research & development,manager,5,2,1,,0,0,2,,,False,married,4,2,medical,23.0,2
+1380,,laboratory technician,1,4,1,,0,0,4,,3.0,False,single,2,2,technical degree,7.0,5
+1381,research & development,healthcare representative,2,3,6,,1,0,2,True,3.0,False,,7,3,,6.0,1
+1382,research & development,research director,5,2,1,,0,0,3,,3.0,False,single,1,3,life sciences,,6
+1384,,research scientist,1,4,1,,0,1,2,True,3.0,False,single,25,3,life sciences,1.0,1
+1385,,research scientist,1,3,1,0.0,0,1,2,False,4.0,False,,1,2,,1.0,1
+1386,,sales representative,1,1,1,,1,0,4,True,,True,single,32,1,,1.0,1
+1389,,manager,5,3,0,,0,0,4,False,4.0,False,,25,3,medical,22.0,3
+1390,,sales representative,1,4,1,,0,0,4,True,,False,married,11,3,medical,5.0,8
+1391,,laboratory technician,1,3,0,,0,0,5,False,3.0,False,single,1,3,,0.0,1
+1392,,sales representative,1,2,1,,0,0,3,True,3.0,True,single,2,3,,3.0,7
+1393,,sales representative,1,1,1,,0,0,3,False,,True,single,1,4,life sciences,,1
+1394,,research scientist,1,2,1,,0,0,3,False,3.0,True,,8,3,life sciences,,1
+1395,,laboratory technician,1,3,5,,1,4,3,False,3.0,False,married,11,1,life sciences,6.0,0
+1396,,laboratory technician,1,2,1,,0,0,2,True,4.0,True,single,2,3,,11.0,2
+1397,,sales executive,2,3,1,,0,0,4,False,,False,married,1,5,marketing,11.0,7
+1398,research & development,research scientist,1,3,1,,0,0,2,False,3.0,False,,25,3,,1.0,1
+1400,,laboratory technician,1,3,0,,0,0,2,False,3.0,True,,9,3,,,2
+1402,,laboratory technician,1,2,0,,0,0,2,,,True,single,2,2,medical,8.0,7
+1404,,healthcare representative,2,3,0,,0,0,6,True,3.0,False,,8,5,,14.0,2
+1405,,manufacturing director,3,3,2,,2,2,3,False,,False,single,6,3,,9.0,4
+1406,,laboratory technician,1,2,1,,0,0,3,,,False,married,2,3,medical,,4
+1407,,research scientist,1,4,1,0.0,0,0,2,False,3.0,False,married,9,3,,,6
+1408,,laboratory technician,1,2,3,,1,2,3,False,3.0,False,,1,3,,,1
+1410,,research scientist,1,3,1,,0,0,4,False,3.0,False,single,13,4,medical,,1
+1411,,research scientist,1,3,1,,0,0,5,,4.0,False,,3,3,,1.0,1
+1413,,manager,5,3,1,,0,0,2,False,,False,marreid,24,3,marketing,,4
+1415,,laboratory technician,1,2,1,,0,1,5,False,3.0,False,,7,2,life sciences,,1
+1416,,manager,4,4,26,,0,12,5,False,3.0,False,,1,4,life sciences,27.0,1
+1417,sales,sales representative,1,3,0,,0,0,2,,3.0,True,single,3,2,medical,0.0,1
+1418,,sales executive,2,2,10,,0,9,3,,,False,divorced,5,3,,10.0,1
+1419,,sales executive,2,3,10,,0,2,2,True,3.0,False,,5,4,life sciences,10.0,1
+1420,,sales executive,3,3,2,,0,2,2,,3.0,False,single,23,2,,21.0,3
+1423,,healthcare representative,3,1,1,,0,0,2,False,4.0,False,divorced,1,4,,19.0,3
+1424,,human resources,1,1,1,,0,0,2,True,,True,married,22,1,,1.0,1
+1425,,manufacturing director,2,3,1,,0,0,3,,3.0,False,,8,2,life sciences,18.0,2
+1427,,sales executive,2,3,1,,0,0,3,,3.0,False,,2,4,marketing,4.0,7
+1429,,human resources,3,1,5,,0,3,2,True,4.0,False,marreid,41,3,life sciences,9.0,4
+1430,,research scientist,1,4,5,,1,2,3,False,3.0,False,married,2,4,,6.0,0
+1431,,sales executive,3,3,0,,0,0,2,,4.0,True,,16,3,,,2
+1432,,sales executive,3,3,1,,0,0,2,,3.0,True,married,16,4,,,2
+1434,,healthcare representative,2,4,7,,1,7,3,False,3.0,False,married,16,3,,10.0,3
+1435,,healthcare representative,2,1,1,,1,0,2,True,3.0,False,married,18,3,medical,,3
+1439,,laboratory technician,1,3,1,,0,0,6,True,3.0,True,,45,1,medical,1.0,1
+1442,,research scientist,1,3,0,,0,0,4,,3.0,False,single,14,3,,0.0,1
+1443,,human resources,1,4,1,,0,0,4,,3.0,True,married,18,5,human resources,2.0,0
+1444,,research scientist,2,3,1,,0,0,2,True,4.0,False,,2,4,,,4
+1445,,sales executive,2,3,0,,0,0,2,True,3.0,False,,10,4,marketing,,8
+1447,,laboratory technician,1,3,0,,0,0,3,True,,False,,8,3,,,4
+1448,,human resources,1,2,1,,0,0,3,True,3.0,False,married,6,1,,,1
+1450,sales,sales representative,1,3,1,,0,0,3,True,3.0,False,,3,3,medical,1.0,1
+1451,,sales representative,1,3,1,,0,0,3,False,3.0,True,,9,3,,,1
+1453,,research scientist,1,2,1,,1,0,3,False,3.0,False,,1,2,life sciences,1.0,1
+1454,,healthcare representative,2,4,2,0.0,2,2,5,,3.0,False,,1,4,,10.0,2
+1455,sales,sales representative,1,4,1,,0,0,3,True,3.0,True,single,24,3,technical degree,1.0,1
+1456,,sales executive,2,3,2,,2,2,0,True,3.0,True,,13,2,marketing,6.0,3
+1457,,sales executive,2,2,0,,0,0,3,True,3.0,False,married,11,5,,,4
+1458,,manufacturing director,2,3,10,,7,9,3,,4.0,False,married,9,2,,10.0,1
+1459,,manager,4,3,1,,0,0,2,True,3.0,False,,21,3,,,4
+1460,sales,sales executive,2,3,0,,0,0,4,False,,False,divorced,12,4,marketing,14.0,3
+1461,,human resources,1,2,1,,0,0,2,False,3.0,True,married,22,3,,,1
+1462,,sales representative,1,2,1,,0,0,3,True,3.0,False,single,1,3,,20.0,4
+1463,,manufacturing director,2,2,1,,0,0,1,,4.0,False,,5,4,life sciences,,8
+1464,,laboratory technician,1,1,1,,0,0,4,True,3.0,False,,2,1,medical,,1
+1466,research & development,laboratory technician,1,3,1,,0,0,3,,3.0,False,married,44,4,,8.0,8
+1468,,sales representative,1,3,1,,1,0,3,False,3.0,True,married,9,3,,,1
+1469,,human resources,3,3,9,,1,7,2,False,3.0,False,single,26,4,life sciences,,1
+1470,,sales representative,1,3,11,,5,7,4,True,4.0,False,,7,2,technical degree,12.0,0
+1471,,research scientist,1,3,5,,1,4,3,False,3.0,False,single,16,3,medical,5.0,1
+1477,,manufacturing director,2,3,13,,3,12,5,True,3.0,False,married,7,2,,13.0,1
+1478,research & development,manager,4,2,27,,15,7,2,True,3.0,False,married,29,4,life sciences,28.0,0
+1479,sales,sales representative,1,2,2,,2,2,2,False,3.0,False,,8,1,life sciences,,0
+1480,,research director,5,3,2,,2,2,0,True,3.0,False,,1,4,medical,23.0,9
+1481,,research scientist,1,2,2,,2,2,6,True,3.0,False,single,25,1,,2.0,1
+1482,,sales representative,1,4,2,,2,2,4,False,,False,married,20,3,,3.0,0
+1483,,sales executive,2,3,5,,0,3,3,True,3.0,True,single,9,4,,6.0,0
+1484,research & development,laboratory technician,1,3,2,,2,2,5,False,3.0,True,,15,3,medical,,1
+1485,,healthcare representative,2,2,6,,1,3,2,False,3.0,False,,25,2,,9.0,7
+1486,,research scientist,1,2,4,2.0,2,2,0,False,,False,married,6,3,,4.0,1
+1487,,laboratory technician,1,2,2,,2,2,2,,3.0,False,married,4,4,other,2.0,1
+1489,,human resources,1,3,9,,1,8,5,,3.0,False,,2,3,life sciences,,0
+1490,,sales executive,2,3,10,,7,7,2,True,3.0,True,,27,3,,,1
+1491,,manufacturing director,3,3,7,,0,2,3,False,3.0,False,single,47,3,medical,9.0,9
+1492,,healthcare representative,2,3,9,7.0,3,7,2,False,4.0,True,married,21,2,medical,13.0,4
+1494,,sales executive,3,3,8,,0,7,2,False,4.0,True,,10,3,life sciences,14.0,5
+1496,sales,sales executive,2,4,8,,0,7,5,,3.0,False,single,2,2,,9.0,0
+1497,,research director,3,3,13,,5,7,3,False,3.0,False,married,6,3,medical,18.0,9
+1498,,sales executive,2,2,7,,0,7,2,True,3.0,False,married,1,2,life sciences,7.0,1
+1499,research & development,research scientist,1,3,5,,0,3,4,True,3.0,False,married,5,4,,,0
+1500,,human resources,2,2,2,,1,0,1,,3.0,False,,2,3,human resources,,3
+1501,,research scientist,2,2,8,,7,7,3,False,,True,,8,4,medical,11.0,2
+1502,,research director,5,3,3,,1,1,2,True,3.0,False,married,5,5,,21.0,4
+1503,,laboratory technician,1,2,3,,2,2,2,False,3.0,False,,9,5,other,4.0,0
+1504,,manufacturing director,2,3,6,,0,4,2,False,3.0,False,,5,2,medical,8.0,7
+1505,,research scientist,1,3,4,,0,2,2,False,3.0,False,,22,1,,,1
+1506,human resources,human resources,1,3,3,,1,0,5,True,3.0,False,divorced,2,1,,4.0,0
+1507,sales,sales executive,2,3,2,,2,2,2,True,3.0,False,,28,2,,4.0,7
+1508,,sales representative,1,2,3,,1,2,3,False,3.0,True,single,1,1,,3.0,1
+1509,,healthcare representative,2,3,3,,1,2,2,False,3.0,False,,1,4,medical,,2
+1511,research & development,research scientist,1,3,3,,1,2,4,True,,False,,23,3,,6.0,9
+1514,,research scientist,1,3,2,,2,2,3,,3.0,False,married,2,3,,,4
+1515,,sales executive,2,4,5,,0,4,3,True,3.0,True,,37,3,marketing,,8
+1516,,sales executive,2,3,5,,0,3,2,True,3.0,False,divorced,32,4,marketing,,1
+1517,,laboratory technician,1,3,5,,1,2,5,,3.0,False,,1,4,,8.0,3
+1518,,research director,5,3,4,,1,2,4,True,3.0,False,married,5,2,medical,24.0,4
+1519,,laboratory technician,1,3,3,,1,2,1,True,4.0,False,,21,3,,,7
+1520,,laboratory technician,1,2,4,,3,2,3,True,3.0,False,married,1,2,,4.0,1
+1523,,manager,3,3,10,,9,9,2,False,3.0,True,married,29,4,life sciences,,1
+1524,,manager,3,4,7,,6,2,6,True,,False,divorced,38,3,life sciences,10.0,7
+1525,,sales executive,2,3,10,,0,9,3,True,3.0,False,single,2,2,,,1
+1526,research & development,laboratory technician,2,3,10,,0,8,4,True,,False,marreid,17,2,technical degree,12.0,3
+1527,,sales executive,2,2,8,,7,4,0,True,3.0,True,single,4,4,,,1
+1528,,sales executive,2,4,8,,7,7,3,False,3.0,False,,7,3,technical degree,10.0,4
+1529,,laboratory technician,1,3,8,,1,7,5,False,3.0,False,,10,4,life sciences,,0
+1530,,sales executive,2,3,7,,1,7,3,True,3.0,False,,7,3,marketing,13.0,4
+1532,,sales executive,2,2,7,,0,1,6,,3.0,False,,10,3,,,3
+1533,research & development,laboratory technician,2,2,9,,0,0,3,False,,False,divorced,30,4,life sciences,9.0,1
+1534,,laboratory technician,1,1,7,,0,7,4,True,3.0,True,,8,4,,7.0,1
+1535,sales,sales executive,2,3,8,,0,7,3,True,3.0,False,,12,4,,8.0,1
+1538,,sales executive,2,3,8,,7,7,3,False,3.0,False,,1,3,,,1
+1539,,laboratory technician,1,4,7,,1,7,3,True,3.0,False,married,10,4,life sciences,,3
+1540,,sales executive,2,3,8,,7,7,5,,3.0,True,,4,3,,8.0,1
+1541,,sales executive,2,3,7,,0,7,2,False,3.0,False,,31,2,,18.0,4
+1544,,healthcare representative,3,3,8,,0,0,2,True,3.0,False,,16,3,life sciences,10.0,4
+1546,,human resources,1,3,7,,1,0,2,True,3.0,True,,17,4,life sciences,8.0,0
+1547,,sales executive,2,4,10,,5,7,3,False,3.0,False,single,21,4,,10.0,1
+1548,,sales executive,2,4,7,,5,7,4,True,4.0,False,divorced,29,4,medical,13.0,4
+1549,,laboratory technician,2,3,8,,4,7,3,,3.0,False,divorced,9,5,,10.0,3
+1551,research & development,research scientist,1,1,10,,2,8,5,,3.0,False,divorced,1,4,life sciences,10.0,1
+1552,,healthcare representative,3,2,8,,7,7,3,True,3.0,False,,9,3,medical,9.0,1
+1553,,sales executive,2,3,10,,0,8,2,,3.0,False,,10,3,marketing,10.0,1
+1554,,healthcare representative,2,4,9,,1,8,4,False,3.0,False,,1,4,life sciences,10.0,0
+1555,,manufacturing director,3,3,9,,0,7,3,False,3.0,False,married,1,2,life sciences,9.0,1
+1557,,sales executive,2,3,7,,1,7,2,False,3.0,False,single,14,4,marketing,20.0,2
+1559,,sales executive,2,3,8,,7,7,2,False,,False,divorced,35,5,marketing,10.0,7
+1560,,healthcare representative,4,3,10,,1,1,1,,3.0,False,married,9,3,,30.0,7
+1561,,sales representative,2,1,8,,3,1,3,,3.0,False,single,2,2,,9.0,0
+1562,,sales executive,3,2,10,,0,9,1,True,3.0,False,single,8,4,,10.0,1
+1563,,manufacturing director,2,4,15,,4,12,2,False,3.0,False,single,2,4,life sciences,17.0,6
+1565,,manufacturing director,2,3,9,,0,5,2,True,3.0,False,,1,3,other,,0
+1567,,sales executive,2,3,9,,7,3,3,True,3.0,True,single,2,1,medical,,4
+1570,,research scientist,1,3,8,,7,1,0,False,3.0,False,,9,2,,8.0,1
+1571,research & development,laboratory technician,1,1,7,,1,0,1,True,3.0,True,divorced,2,4,life sciences,,4
+1572,,sales representative,1,2,7,,5,2,2,,,False,,7,4,,,3
+1573,sales,sales executive,2,2,7,,0,7,2,True,3.0,False,,1,3,medical,,1
+1575,,manufacturing director,2,3,8,,6,3,2,True,3.0,False,married,3,4,medical,8.0,1
+1576,,laboratory technician,2,3,9,,0,8,5,True,3.0,False,,4,2,,,1
+1578,,sales executive,2,3,7,,0,7,3,,,False,divorced,8,4,technical degree,12.0,4
+3,,research director,4,3,20,,5,6,2,False,3.0,False,married,2,4,medical,,3
+4,,sales executive,4,4,19,,2,8,5,False,3.0,False,divorced,3,3,technical degree,,2
+8,,manager,4,3,18,,11,8,2,,3.0,False,married,2,5,,22.0,7
+11,,manufacturing director,4,3,19,,15,9,0,False,,False,married,23,3,life sciences,33.0,4
+12,,research director,3,1,18,,1,11,3,True,3.0,False,married,10,3,medical,,3
+14,,research director,5,4,24,,2,15,3,,3.0,False,single,14,4,medical,,8
+17,,manager,4,3,26,,15,9,2,False,4.0,False,,2,3,,28.0,8
+18,,research scientist,2,4,16,,1,10,2,False,3.0,False,married,13,5,life sciences,,1
+19,,manufacturing director,3,2,18,,14,12,2,,3.0,False,,15,3,life sciences,18.0,1
+22,,healthcare representative,3,3,17,,12,8,2,True,,False,divorced,8,3,,17.0,1
+24,,sales executive,2,3,18,,4,11,1,,3.0,False,,42,2,life sciences,18.0,1
+25,,manufacturing director,3,2,17,,5,15,2,False,4.0,False,married,9,3,life sciences,17.0,1
+26,,manager,5,1,32,,6,9,3,True,3.0,True,married,2,1,,33.0,1
+28,,laboratory technician,2,3,15,,5,7,3,True,3.0,False,married,28,4,life sciences,15.0,1
+34,,research scientist,2,3,16,,2,10,3,,3.0,False,single,6,4,other,16.0,1
+38,,sales executive,3,2,18,13.0,13,11,5,True,3.0,False,married,28,3,,22.0,4
+41,,laboratory technician,1,3,18,,2,17,3,True,,False,single,35,3,,20.0,2
+50,,research director,3,3,15,,5,11,3,False,3.0,False,married,1,3,,15.0,1
+52,,sales executive,3,2,13,,6,0,3,False,3.0,True,married,10,3,medical,15.0,9
+55,,sales executive,2,1,15,,11,11,4,True,4.0,False,divorced,15,4,marketing,,1
+58,,sales executive,2,2,15,,5,9,1,True,3.0,False,married,4,4,life sciences,17.0,4
+69,,healthcare representative,2,3,14,,4,11,2,,3.0,False,single,2,4,,14.0,1
+70,research & development,healthcare representative,2,3,14,,2,9,5,,3.0,False,,8,4,,,1
+71,,research director,3,2,14,11.0,1,11,3,False,3.0,False,,17,5,life sciences,,5
+75,,manufacturing director,3,2,22,,14,10,4,True,,False,divorced,4,3,life sciences,,8
+81,,healthcare representative,3,3,40,,15,6,3,True,3.0,True,married,23,4,medical,40.0,1
+83,,sales executive,3,3,11,,4,1,5,,3.0,False,married,1,1,,11.0,1
+85,,manager,4,3,22,,0,4,2,True,3.0,False,,10,4,,,1
+86,research & development,healthcare representative,3,4,18,,3,7,5,False,,False,,1,3,,19.0,0
+87,,research director,3,2,11,,2,9,3,True,3.0,False,,15,2,life sciences,,0
+88,,research director,4,2,25,,3,9,3,,3.0,False,,12,3,,,1
+92,,manufacturing director,2,4,19,,2,7,3,True,3.0,False,,16,4,,20.0,1
+94,,healthcare representative,3,3,11,,11,1,6,True,4.0,False,married,20,4,,14.0,4
+97,,research scientist,1,3,11,,0,7,2,False,3.0,False,married,3,3,,12.0,1
+99,,manager,5,3,29,,11,10,5,False,,False,,27,3,,,4
+104,,research director,5,2,22,,12,9,3,False,3.0,False,,10,3,,29.0,4
+108,,healthcare representative,3,2,10,,9,5,5,False,3.0,False,married,1,3,medical,21.0,2
+114,,research director,3,2,10,,4,7,5,False,3.0,False,married,8,4,life sciences,16.0,5
+117,,laboratory technician,3,3,24,,9,11,2,True,3.0,False,,7,3,life sciences,24.0,1
+119,,manufacturing director,3,2,10,,8,9,2,False,4.0,False,married,7,2,,10.0,1
+123,,manufacturing director,3,3,11,,4,10,2,False,3.0,False,,7,4,medical,11.0,1
+128,,manufacturing director,3,3,10,,5,8,5,False,4.0,False,married,24,3,medical,10.0,1
+139,,manufacturing director,2,3,11,,0,9,0,False,4.0,False,single,18,4,,18.0,2
+142,research & development,research scientist,1,3,11,,5,7,2,True,4.0,False,,1,3,medical,12.0,0
+143,,research director,4,3,10,,0,9,2,True,3.0,False,married,3,3,life sciences,36.0,3
+148,human resources,human resources,2,2,10,,1,8,5,True,3.0,False,,11,3,life sciences,14.0,4
+153,,manufacturing director,3,3,10,,0,8,2,True,3.0,False,single,4,3,life sciences,11.0,1
+157,,research scientist,2,4,12,,2,8,2,,4.0,False,married,1,2,life sciences,13.0,0
+166,,manager,4,3,16,,14,14,0,True,4.0,False,divorced,2,3,medical,37.0,4
+167,sales,sales executive,2,2,10,,1,7,4,False,3.0,False,marreid,14,4,,10.0,1
+169,,manager,5,4,10,,1,4,0,True,3.0,False,married,26,4,human resources,35.0,4
+174,,manager,4,2,25,,3,7,3,True,3.0,False,married,2,4,life sciences,,2
+175,,sales executive,3,3,9,,1,7,0,False,3.0,False,single,8,3,,9.0,1
+177,,sales executive,3,3,9,,1,8,3,,4.0,False,married,18,5,life sciences,9.0,1
+183,,sales executive,3,3,10,,0,6,3,False,3.0,False,married,37,5,marketing,,1
+191,,sales representative,1,3,9,,5,8,2,False,3.0,False,divorced,4,4,,13.0,4
+193,,laboratory technician,2,3,9,,0,8,3,,3.0,False,married,24,4,,11.0,7
+207,,sales executive,2,4,9,,0,8,5,True,,False,divorced,1,3,medical,9.0,1
+211,sales,sales executive,2,3,9,,0,0,2,False,3.0,False,,20,2,,,1
+212,,laboratory technician,1,3,11,,3,9,6,,4.0,False,single,2,4,medical,,4
+218,,sales executive,3,2,11,,3,10,3,,,True,,23,1,,11.0,1
+221,,sales executive,3,4,9,,0,8,3,True,3.0,False,,10,5,,,0
+222,,laboratory technician,2,3,11,,5,10,2,,3.0,False,divorced,19,3,medical,15.0,4
+230,,research director,3,2,9,,4,8,5,True,3.0,False,,8,1,,16.0,2
+233,,healthcare representative,3,2,11,,3,3,3,,3.0,False,single,16,3,life sciences,,1
+240,,laboratory technician,2,2,10,,0,7,3,,3.0,False,,3,2,,,0
+243,,sales executive,3,3,10,,8,7,3,False,3.0,False,,6,3,marketing,,1
+245,,manager,5,3,21,,12,8,3,False,3.0,False,,7,4,,,1
+246,,research scientist,2,3,9,,1,7,2,True,,False,,4,3,technical degree,11.0,5
+248,,research scientist,1,4,10,,7,6,1,,3.0,False,married,8,4,life sciences,14.0,6
+250,research & development,laboratory technician,1,3,11,,3,10,3,False,,False,married,46,1,medical,,1
+256,research & development,research scientist,2,1,10,,8,7,6,True,,False,married,1,3,life sciences,10.0,1
+260,,laboratory technician,1,3,12,,1,7,6,False,3.0,False,married,1,2,medical,12.0,1
+262,,sales representative,1,3,9,,0,0,3,True,3.0,False,divorced,29,4,,16.0,2
+265,,laboratory technician,1,3,7,,3,6,2,True,3.0,False,,2,2,life sciences,8.0,0
+266,research & development,manufacturing director,3,2,9,,1,8,2,True,4.0,False,,23,3,,,0
+267,research & development,healthcare representative,2,3,7,,7,7,3,True,3.0,False,,27,3,medical,17.0,6
+282,research & development,manufacturing director,2,3,10,,0,9,1,False,3.0,False,married,1,1,technical degree,10.0,1
+283,research & development,laboratory technician,1,3,8,,7,2,3,,,False,,3,2,,13.0,4
+288,,manufacturing director,2,3,7,,1,7,3,True,3.0,False,married,29,3,,9.0,3
+293,,laboratory technician,1,3,9,,1,7,3,,,True,,2,2,,13.0,7
+295,research & development,research director,5,3,21,,3,9,5,,3.0,False,,2,2,medical,,0
+298,,healthcare representative,4,3,20,,4,10,2,True,3.0,False,married,20,2,medical,21.0,0
+307,,research scientist,2,4,7,,0,7,0,,3.0,False,single,2,4,medical,,7
+312,,sales executive,2,2,7,,1,7,2,False,3.0,False,divorced,10,1,,7.0,1
+313,,research scientist,2,4,7,,6,7,2,False,3.0,False,divorced,6,3,medical,13.0,4
+318,,laboratory technician,1,3,18,,12,17,2,False,3.0,False,,14,3,,,1
+319,,sales executive,4,4,7,,7,7,0,,3.0,False,married,6,3,life sciences,36.0,9
+321,,manufacturing director,2,3,10,,0,8,5,False,3.0,False,,18,3,medical,19.0,2
+322,,laboratory technician,1,3,11,,6,7,2,False,3.0,False,single,2,3,,12.0,0
+325,,sales executive,2,3,8,,3,7,3,,3.0,False,,2,3,other,,0
+332,,manufacturing director,3,3,10,,7,8,2,True,,False,married,3,3,other,,1
+333,,human resources,3,3,9,,7,1,1,,,False,,19,4,,16.0,2
+334,sales,sales executive,2,2,7,,0,5,2,True,,False,,7,4,marketing,,0
+341,,research director,3,3,7,,7,7,6,False,3.0,False,single,3,2,life sciences,10.0,3
+345,research & development,research scientist,1,1,7,,3,7,4,True,3.0,True,,35,2,,10.0,7
+353,,healthcare representative,2,4,8,,3,7,2,True,4.0,False,,13,2,medical,8.0,1
+356,,research scientist,1,4,10,,0,7,3,True,4.0,False,married,23,2,,10.0,1
+358,sales,sales executive,2,3,8,,7,5,2,True,4.0,False,,2,4,,8.0,1
+359,,research scientist,1,2,8,,1,7,2,True,3.0,True,married,5,2,medical,8.0,1
+364,,healthcare representative,2,3,9,,8,5,2,False,3.0,False,,12,3,medical,10.0,0
+368,,sales executive,3,4,8,,0,7,3,False,3.0,False,single,2,5,,9.0,0
+370,,manufacturing director,3,3,8,,0,7,3,False,3.0,False,,7,2,medical,,6
+375,sales,sales executive,2,3,18,,0,13,3,,3.0,False,married,1,3,life sciences,,0
+378,,sales executive,2,3,7,,7,5,3,False,3.0,False,married,26,3,,8.0,1
+386,,manufacturing director,3,3,9,,1,7,3,,3.0,False,,12,3,,,0
+388,research & development,healthcare representative,4,3,18,,11,5,4,False,3.0,True,,2,3,life sciences,21.0,7
+390,,manufacturing director,2,2,10,,1,2,2,True,3.0,False,married,8,1,medical,10.0,1
+391,,research director,3,3,18,,2,13,3,False,3.0,False,,32,4,,20.0,9
+397,research & development,laboratory technician,1,1,7,,1,7,4,True,3.0,False,divorced,6,4,life sciences,,1
+399,,sales executive,2,4,11,,1,9,3,,3.0,False,divorced,29,4,,12.0,0
+402,,research scientist,1,3,9,,6,8,3,True,3.0,False,,14,3,,,1
+408,research & development,laboratory technician,1,3,7,,7,7,2,True,3.0,True,divorced,7,3,technical degree,10.0,3
+409,,sales executive,2,4,10,,0,8,4,False,3.0,False,married,8,3,,,1
+410,,healthcare representative,3,3,7,,1,7,0,,3.0,False,married,10,4,technical degree,,3
+411,sales,sales executive,3,3,8,,7,7,2,True,3.0,True,single,5,3,,,9
+417,,sales executive,4,4,19,,3,8,2,,3.0,True,,13,4,,,6
+425,,laboratory technician,2,3,8,,0,7,2,True,3.0,False,,9,4,other,11.0,3
+426,,sales executive,3,3,13,,9,9,5,,,False,divorced,8,2,,13.0,1
+433,human resources,manager,4,3,21,,7,7,2,True,4.0,False,single,6,2,,21.0,1
+434,sales,sales executive,2,3,8,,7,7,2,True,3.0,False,divorced,16,4,life sciences,18.0,8
+440,research & development,manufacturing director,2,3,7,,7,7,3,False,3.0,False,,10,5,medical,,2
+445,,manager,4,3,8,,0,0,2,,3.0,False,single,1,3,,23.0,4
+449,,sales representative,2,3,13,,6,7,2,True,,False,single,2,4,,17.0,3
+457,,sales executive,2,2,12,,5,7,3,True,3.0,False,,29,4,marketing,,1
+462,,sales executive,2,3,8,,5,7,3,False,4.0,False,married,2,4,,10.0,4
+465,research & development,manager,4,3,19,,11,16,3,,3.0,False,,1,4,,22.0,2
+468,,laboratory technician,1,4,7,,7,7,3,,3.0,False,married,6,3,other,8.0,0
+475,,healthcare representative,2,3,9,,2,8,2,True,,False,divorced,7,2,life sciences,9.0,1
+480,,sales executive,3,2,9,,3,4,2,True,3.0,False,marreid,46,3,,10.0,0
+483,,sales executive,2,3,10,,1,9,1,True,3.0,False,married,10,2,,10.0,1
+486,,healthcare representative,3,2,22,,5,17,4,,,False,married,7,4,medical,24.0,3
+493,,manager,3,3,7,,7,7,2,,3.0,True,married,15,1,medical,15.0,7
+494,,manufacturing director,4,3,20,,5,13,3,False,3.0,False,single,6,3,life sciences,22.0,7
+497,,manager,4,2,34,,1,16,3,True,3.0,False,,3,4,marketing,,1
+503,,manufacturing director,3,3,21,,2,8,2,False,3.0,False,single,22,3,medical,,1
+505,human resources,human resources,3,2,20,,3,6,1,True,,True,married,1,2,medical,24.0,9
+509,human resources,human resources,1,3,7,,5,7,3,,3.0,False,,1,2,life sciences,10.0,6
+514,,manager,5,2,36,,2,13,3,True,4.0,False,,23,5,marketing,36.0,1
+518,,sales executive,3,3,10,,0,3,5,False,3.0,False,,2,3,,,4
+524,,manufacturing director,2,2,7,,0,7,2,False,3.0,False,divorced,1,4,,,1
+526,,research scientist,1,3,6,,0,3,2,True,3.0,False,single,29,3,,9.0,5
+532,,manufacturing director,3,3,6,,1,2,3,True,3.0,False,single,47,3,,,4
+534,,manufacturing director,2,3,6,,4,3,2,False,3.0,False,married,1,4,life sciences,8.0,6
+535,,research scientist,1,4,6,,1,4,3,True,3.0,False,,23,3,medical,,1
+540,sales,sales executive,2,3,6,,1,4,5,True,4.0,False,single,25,3,other,6.0,1
+542,,manufacturing director,3,3,8,,1,6,3,False,4.0,False,single,7,3,other,17.0,3
+547,,sales executive,2,3,6,,1,3,3,False,4.0,False,married,9,1,life sciences,,1
+548,,laboratory technician,1,2,6,,3,3,2,False,3.0,False,married,19,4,medical,6.0,1
+549,,research scientist,1,4,10,,7,7,5,False,3.0,False,married,2,1,life sciences,10.0,1
+551,research & development,research scientist,1,3,8,,2,2,2,False,4.0,False,,4,2,life sciences,,1
+553,research & development,laboratory technician,1,4,6,,1,3,2,False,3.0,False,single,5,2,,7.0,0
+556,,sales executive,2,3,6,,1,2,2,False,4.0,False,,16,3,life sciences,7.0,1
+557,sales,sales executive,4,1,23,,14,10,3,True,,True,married,9,3,,25.0,7
+558,,sales executive,2,3,6,,0,5,0,False,3.0,True,,1,2,,8.0,8
+559,research & development,laboratory technician,1,4,5,,0,3,5,False,3.0,False,married,16,3,medical,6.0,0
+561,,research scientist,2,3,10,,0,9,3,True,3.0,False,,1,3,life sciences,10.0,1
+562,,research scientist,1,2,6,,0,4,3,False,3.0,False,single,1,3,medical,6.0,1
+579,research & development,research director,5,3,10,,1,6,4,False,3.0,False,divorced,4,1,,28.0,3
+580,,sales executive,4,3,20,,4,8,2,,3.0,False,married,26,3,,,5
+581,,sales executive,2,3,5,,0,4,3,True,3.0,False,,2,3,,5.0,1
+588,,sales executive,2,3,5,,1,3,5,True,3.0,False,divorced,2,2,marketing,,7
+590,,sales executive,2,3,5,,4,4,6,,,False,single,12,3,,,0
+591,,manufacturing director,3,2,5,,0,4,4,False,,False,married,32,3,,,2
+595,,manager,3,2,5,,0,1,3,True,4.0,False,divorced,7,3,,10.0,9
+596,sales,sales executive,2,3,5,,0,3,3,True,3.0,False,single,1,3,,5.0,1
+597,,sales representative,1,3,7,,0,6,1,True,3.0,False,,13,1,,7.0,1
+605,,human resources,2,2,5,,0,4,2,False,3.0,False,,2,3,life sciences,13.0,8
+607,,sales executive,3,3,8,,7,7,2,False,3.0,False,,8,2,,,5
+610,,sales executive,3,2,9,,7,0,4,True,3.0,False,married,2,4,life sciences,13.0,6
+614,,human resources,1,3,5,,1,4,2,True,3.0,False,,8,4,technical degree,6.0,1
+618,,human resources,1,3,5,,1,4,2,,3.0,False,,2,3,human resources,5.0,1
+621,,manufacturing director,2,3,8,4.0,1,7,3,,,False,single,9,2,medical,10.0,7
+623,,sales executive,3,2,5,,1,0,2,True,3.0,True,single,25,4,,9.0,2
+626,,research scientist,1,3,6,,1,3,2,False,3.0,False,married,4,1,,8.0,7
+633,,laboratory technician,1,2,5,,0,2,2,False,3.0,False,,1,3,life sciences,7.0,5
+635,research & development,laboratory technician,1,2,5,,0,2,5,True,3.0,False,,4,4,medical,8.0,8
+640,,healthcare representative,2,3,6,,1,3,0,,3.0,False,,2,1,life sciences,6.0,1
+646,,manufacturing director,2,3,5,,1,0,3,True,4.0,False,,12,3,medical,,4
+653,,healthcare representative,2,3,7,,7,7,3,True,3.0,False,,12,3,,15.0,2
+659,,sales executive,2,2,5,,0,4,5,False,3.0,False,divorced,3,3,life sciences,14.0,2
+660,,research scientist,1,2,5,,0,4,3,True,3.0,False,single,41,4,medical,5.0,1
+661,,manufacturing director,2,3,9,,1,7,2,True,3.0,False,,5,3,medical,10.0,0
+671,,research director,5,3,8,,0,7,1,,3.0,False,,47,3,,28.0,3
+674,,sales executive,3,3,5,,1,3,3,,3.0,False,,3,3,life sciences,,2
+677,research & development,healthcare representative,3,4,5,,1,4,2,True,3.0,False,divorced,24,2,,12.0,3
+679,,sales representative,1,3,4,,0,2,5,,4.0,True,,20,2,marketing,4.0,1
+688,,research scientist,1,3,5,,0,2,3,True,4.0,False,,8,2,,,1
+693,,sales executive,2,1,4,,0,2,2,True,4.0,False,marreid,45,2,,,2
+697,research & development,laboratory technician,1,3,5,,1,4,3,False,3.0,False,marreid,37,3,,9.0,4
+699,,laboratory technician,1,1,4,,1,3,2,False,3.0,True,divorced,10,1,,8.0,7
+702,,laboratory technician,1,3,8,,0,7,3,,3.0,False,married,8,1,,,1
+704,research & development,laboratory technician,1,3,6,,1,2,4,True,3.0,True,,7,3,,6.0,1
+707,sales,sales executive,2,3,4,,1,3,4,False,3.0,True,married,8,2,technical degree,18.0,3
+713,,research scientist,1,3,5,,4,3,3,False,3.0,False,divorced,10,1,life sciences,,0
+716,research & development,healthcare representative,2,2,4,,1,2,3,False,3.0,False,,12,3,,,2
+717,,research scientist,1,4,4,,0,1,3,False,3.0,False,single,2,1,medical,,7
+719,,sales executive,2,3,5,,0,3,3,,3.0,False,,3,1,,5.0,1
+721,,human resources,1,3,4,,0,3,4,False,3.0,False,divorced,3,2,human resources,,3
+722,,laboratory technician,1,2,4,,0,3,5,False,3.0,False,,7,1,medical,8.0,6
+730,,healthcare representative,2,3,4,,0,1,3,,3.0,False,,3,3,,8.0,3
+732,,laboratory technician,1,2,5,,1,3,2,True,3.0,False,married,1,2,medical,6.0,1
+734,,laboratory technician,1,3,4,,1,2,2,False,4.0,False,single,24,3,medical,6.0,8
+740,,sales executive,2,3,4,,1,1,4,False,3.0,False,single,10,4,life sciences,5.0,0
+761,,laboratory technician,1,2,4,,3,3,3,False,4.0,False,,2,3,,4.0,1
+764,research & development,research scientist,1,4,5,,0,4,1,True,3.0,False,married,12,3,medical,5.0,1
+765,,laboratory technician,1,3,5,,1,2,2,False,3.0,False,,9,4,medical,,9
+770,,research scientist,1,3,5,,0,3,6,,3.0,False,married,1,3,,5.0,1
+772,,laboratory technician,1,3,4,,0,2,5,True,3.0,False,married,2,2,life sciences,7.0,4
+773,,manufacturing director,2,3,10,,0,8,4,True,3.0,True,single,10,4,,10.0,1
+775,sales,sales executive,2,3,5,,1,2,4,False,3.0,False,,10,3,,,1
+789,,research scientist,1,3,4,,1,2,2,True,3.0,False,single,1,3,medical,6.0,6
+791,sales,sales executive,2,2,6,,0,0,2,False,3.0,False,married,11,4,marketing,8.0,4
+793,,research scientist,1,3,5,,0,2,2,True,3.0,False,married,2,4,,20.0,2
+812,,laboratory technician,1,3,2,,2,2,3,False,,False,,31,4,,4.0,3
+821,,manager,5,2,3,,2,2,3,False,4.0,False,,2,4,human resources,,9
+824,,sales executive,3,3,2,,2,1,3,False,3.0,False,single,12,3,,16.0,4
+828,sales,sales executive,2,2,2,,2,2,3,False,3.0,False,,28,3,life sciences,,2
+831,,research scientist,1,3,2,,2,2,6,True,4.0,False,marreid,36,1,medical,2.0,1
+842,,manufacturing director,2,2,2,,2,0,1,False,3.0,False,married,1,1,,,5
+843,,laboratory technician,2,3,7,,3,7,2,,3.0,False,married,38,2,,,8
+844,,research scientist,1,4,4,,2,2,2,False,3.0,False,,22,3,life sciences,4.0,1
+848,,research scientist,1,3,6,,1,5,1,False,3.0,True,single,1,3,,,0
+852,human resources,human resources,1,3,2,,2,2,2,False,3.0,False,married,6,2,medical,,8
+853,,laboratory technician,1,2,3,,1,2,2,,3.0,True,single,1,3,,4.0,0
+855,,sales executive,2,3,3,,2,2,2,,3.0,False,,26,4,marketing,4.0,0
+863,,research scientist,1,3,5,,0,4,3,True,4.0,False,married,9,3,,,1
+869,sales,sales representative,1,3,2,,2,2,5,,3.0,False,divorced,5,3,,2.0,1
+873,research & development,research scientist,1,3,2,,2,2,2,,3.0,False,,2,4,,3.0,0
+884,,sales representative,1,3,3,2.0,2,2,3,True,4.0,False,single,9,2,,3.0,1
+885,,research scientist,1,2,2,,2,2,5,,3.0,False,,9,4,life sciences,3.0,0
+887,,laboratory technician,1,3,5,,0,4,2,True,3.0,False,,1,2,,5.0,1
+888,,healthcare representative,3,2,5,,0,0,2,True,4.0,False,single,7,3,other,,8
+898,,laboratory technician,1,3,2,,0,2,5,True,3.0,True,married,3,3,medical,6.0,5
+900,,manager,4,3,5,,1,4,2,False,3.0,False,married,4,2,life sciences,31.0,2
+902,,research scientist,1,3,3,,0,2,3,True,4.0,False,divorced,23,3,life sciences,,1
+904,,research scientist,1,2,2,,1,1,2,False,3.0,True,married,25,5,technical degree,6.0,5
+905,,research director,4,3,3,,0,1,2,False,3.0,False,married,2,3,life sciences,,6
+908,human resources,human resources,3,3,3,,0,2,2,False,3.0,True,divorced,23,3,,,9
+920,,sales representative,1,3,3,,1,2,2,,,False,,22,1,technical degree,,1
+925,,research scientist,1,2,4,,1,1,0,,3.0,False,single,3,4,medical,5.0,0
+929,,sales executive,2,3,2,,2,0,3,True,3.0,True,single,3,2,life sciences,,9
+936,,research scientist,1,2,4,,2,3,2,False,4.0,False,single,2,1,,5.0,0
+937,sales,sales representative,1,3,2,,2,2,2,False,3.0,False,,10,3,,,1
+939,research & development,research scientist,1,4,2,,0,2,3,False,3.0,False,single,12,1,medical,,1
+940,,manager,5,3,5,,1,4,2,False,3.0,True,,2,3,medical,24.0,5
+944,,sales representative,1,3,3,,0,2,1,,3.0,False,,8,4,,3.0,1
+946,,sales executive,2,3,3,,1,2,1,True,3.0,False,,8,2,,,5
+949,research & development,research scientist,1,4,2,,2,2,0,False,3.0,False,single,20,4,,7.0,3
+950,,research scientist,1,3,2,,2,1,3,True,3.0,True,single,2,4,,5.0,6
+951,,human resources,1,3,5,,0,4,2,True,3.0,False,married,13,3,human resources,,4
+956,,sales executive,3,2,5,,0,4,3,False,3.0,False,married,7,2,,35.0,7
+961,,research scientist,1,3,4,,0,2,2,False,3.0,False,,1,3,technical degree,7.0,2
+969,,manufacturing director,2,3,3,,0,2,3,,3.0,True,married,3,1,life sciences,4.0,0
+971,research & development,laboratory technician,1,3,2,,2,2,2,True,4.0,True,married,6,3,medical,,7
+973,research & development,research scientist,1,3,6,,0,1,6,True,3.0,False,single,7,4,other,8.0,2
+978,,research scientist,1,3,5,,0,1,2,True,3.0,True,married,22,3,,,4
+979,,manufacturing director,2,2,4,,3,2,6,False,3.0,False,divorced,17,1,medical,5.0,1
+983,,manufacturing director,2,3,2,,2,1,6,False,3.0,False,,7,2,medical,8.0,6
+989,,research scientist,1,3,2,,2,2,2,False,3.0,False,,3,4,,8.0,3
+1002,,sales executive,2,3,5,,0,2,3,True,3.0,False,divorced,11,2,marketing,5.0,1
+1009,,manager,5,3,5,,4,2,2,,3.0,False,divorced,4,4,,28.0,4
+1011,,laboratory technician,1,2,2,,1,2,2,True,3.0,False,single,3,3,,2.0,1
+1012,,manager,4,3,2,,2,2,3,,4.0,False,,2,3,,,2
+1015,,sales executive,3,2,13,,4,12,6,False,3.0,False,married,8,2,,16.0,4
+1016,,research scientist,1,3,3,,1,2,5,True,3.0,False,divorced,1,3,life sciences,3.0,1
+1017,,laboratory technician,1,2,2,,2,2,2,True,4.0,True,,10,2,,2.0,1
+1018,,sales executive,2,3,3,,0,2,3,True,3.0,False,,2,3,marketing,4.0,0
+1021,,laboratory technician,1,2,2,,2,2,2,False,3.0,False,married,2,3,life sciences,,1
+1025,,research scientist,1,3,5,,0,3,2,False,3.0,True,single,23,3,medical,6.0,0
+1031,research & development,research scientist,1,3,4,,0,0,0,,3.0,False,divorced,16,2,,6.0,9
+1034,,manufacturing director,4,2,5,,0,3,1,True,3.0,False,,11,2,technical degree,,3
+1037,,research scientist,1,4,4,,0,3,2,True,3.0,False,divorced,7,3,,4.0,1
+1039,,sales executive,3,3,4,,3,2,5,True,3.0,False,,2,3,,14.0,2
+1042,,sales executive,2,4,3,,1,2,3,False,3.0,False,married,18,1,life sciences,6.0,2
+1049,research & development,research director,4,3,3,,1,0,3,True,3.0,False,,8,5,life sciences,,3
+1054,,human resources,1,4,3,,0,2,3,,,False,,8,2,,8.0,9
+1062,research & development,manufacturing director,3,3,2,,2,2,2,,,False,single,2,1,,16.0,5
+1063,,healthcare representative,2,3,3,,1,2,2,True,3.0,False,married,4,4,life sciences,4.0,0
+1070,,sales representative,1,3,3,,1,2,3,False,4.0,False,,2,4,life sciences,7.0,3
+1081,,research scientist,1,2,4,,1,3,2,True,,False,married,26,2,other,4.0,1
+1083,,sales executive,2,3,5,,0,3,3,False,3.0,False,single,2,4,,,7
+1084,,manufacturing director,2,3,3,,1,1,2,True,3.0,False,married,12,4,life sciences,7.0,9
+1086,,manager,5,3,5,,1,0,2,False,3.0,False,married,26,4,,27.0,3
+1087,,manufacturing director,2,3,9,,3,8,2,,3.0,False,,4,3,medical,,0
+1093,,laboratory technician,1,3,4,,0,3,3,True,3.0,True,,7,3,,10.0,3
+1094,,sales executive,2,2,5,,1,4,2,True,3.0,False,single,10,3,,,9
+1101,,manager,4,4,3,,1,2,2,,3.0,False,,2,4,life sciences,29.0,6
+1102,,sales representative,1,3,2,,0,2,3,True,3.0,False,,9,1,,,1
+1107,,laboratory technician,1,1,3,,0,2,3,True,3.0,False,,17,4,,,1
+1108,,research scientist,1,3,5,,1,3,3,True,3.0,False,married,10,3,,,6
+1111,,laboratory technician,1,3,6,,1,2,2,True,3.0,False,,29,1,medical,6.0,1
+1115,,human resources,1,2,4,,1,2,0,False,3.0,True,divorced,42,3,,,6
+1116,,sales executive,2,3,5,,0,2,3,True,3.0,False,,5,3,,6.0,1
+1118,,sales representative,1,1,2,,2,2,3,True,3.0,True,single,9,3,,2.0,1
+1120,,manufacturing director,4,2,3,,0,2,2,,4.0,False,married,31,4,,27.0,4
+1121,,sales executive,2,1,2,,2,2,3,,,False,,3,2,,,5
+1122,,manager,3,3,2,2.0,2,2,2,True,3.0,False,married,3,3,,,2
+1134,sales,sales executive,2,2,2,,2,2,3,True,3.0,True,,2,4,marketing,7.0,7
+1135,,research scientist,2,3,2,,2,2,2,,3.0,False,,19,4,,7.0,8
+1142,,sales executive,2,3,5,,1,4,2,False,3.0,False,divorced,10,2,,,2
+1143,,sales executive,2,2,4,,0,1,3,True,3.0,False,married,3,1,,9.0,3
+1144,,laboratory technician,1,4,2,,2,2,0,False,3.0,False,divorced,4,3,,4.0,8
+1147,,research scientist,1,3,5,,0,3,0,False,3.0,False,divorced,9,2,,,2
+1149,,sales executive,3,3,2,,2,2,2,,3.0,True,,24,4,life sciences,15.0,6
+1158,,sales representative,1,2,2,,2,2,2,True,3.0,False,,36,4,,,0
+1159,sales,sales representative,1,3,2,,1,2,6,,3.0,False,single,5,1,medical,,1
+1160,,manufacturing director,2,3,4,,0,2,3,,3.0,False,,13,2,life sciences,18.0,7
+1164,,healthcare representative,2,3,10,,0,2,2,False,3.0,False,,18,4,life sciences,,1
+1177,,laboratory technician,1,4,5,,0,3,3,True,4.0,False,married,7,3,,5.0,1
+1178,,manufacturing director,2,1,4,,1,2,3,True,3.0,False,divorced,35,3,medical,,5
+1187,,research director,4,3,4,,1,0,3,False,4.0,False,,14,2,life sciences,,6
+1190,,research scientist,1,3,1,,0,0,2,,3.0,False,,4,3,,1.0,1
+1193,,sales representative,1,3,3,,0,2,5,False,3.0,False,,18,3,technical degree,3.0,1
+1195,,sales executive,2,4,15,,0,9,2,True,3.0,False,divorced,46,4,,16.0,0
+1199,research & development,research scientist,1,2,3,,0,2,2,False,3.0,False,divorced,6,3,life sciences,,1
+1200,,laboratory technician,1,3,1,,0,0,4,,,True,married,12,1,,,1
+1204,,sales executive,2,2,5,,1,3,2,False,3.0,False,divorced,10,3,,7.0,7
+1205,,research scientist,1,2,1,1.0,0,0,2,,4.0,True,,10,3,,,1
+1209,,research scientist,1,3,3,,1,2,3,False,3.0,False,,2,3,,,2
+1223,,healthcare representative,2,3,5,,1,2,6,True,3.0,False,,15,4,,9.0,5
+1224,research & development,laboratory technician,1,2,4,,0,3,2,True,3.0,True,,17,3,,,5
+1228,,laboratory technician,1,3,1,,0,0,2,,4.0,False,divorced,24,1,life sciences,1.0,1
+1229,,laboratory technician,1,4,1,,0,0,2,False,3.0,False,,16,2,,,1
+1233,,research scientist,1,3,2,,2,0,2,False,3.0,True,,1,3,,6.0,2
+1237,research & development,research scientist,1,3,1,,0,0,1,False,4.0,False,married,24,2,life sciences,8.0,4
+1238,,laboratory technician,1,4,1,,0,1,2,,,False,,46,1,,1.0,1
+1242,,research scientist,3,3,1,,0,0,2,True,3.0,False,,7,3,life sciences,,2
+1243,,research scientist,1,2,1,,0,0,0,,3.0,True,,9,3,medical,,0
+1245,research & development,research director,3,3,0,,0,0,3,False,3.0,False,,6,4,other,,4
+1248,,research scientist,1,3,1,,0,0,2,True,3.0,False,single,1,1,life sciences,,1
+1252,,research scientist,2,2,1,,0,0,3,,3.0,False,,24,4,life sciences,,6
+1259,,sales representative,1,1,0,,0,0,5,True,4.0,True,,1,1,,1.0,0
+1261,,manufacturing director,2,2,1,,0,1,1,,3.0,True,,23,2,,8.0,3
+1264,sales,manager,3,3,1,,0,0,3,False,3.0,False,single,6,3,life sciences,,3
+1268,,manager,5,4,24,,1,7,2,False,3.0,False,,1,3,,25.0,0
+1270,,research scientist,1,3,1,,0,0,0,,3.0,False,married,38,3,,1.0,1
+1272,,sales executive,2,2,0,,0,0,2,,3.0,False,married,2,3,medical,10.0,2
+1274,,sales executive,2,4,8,,7,7,3,False,4.0,False,,7,2,medical,8.0,1
+1277,research & development,laboratory technician,1,3,0,,0,0,2,True,3.0,True,single,3,3,,0.0,1
+1279,,sales representative,1,2,0,,0,0,2,False,3.0,False,,10,3,,0.0,1
+1281,research & development,healthcare representative,3,3,1,,0,0,1,,3.0,False,marreid,15,3,,,8
+1282,,sales representative,2,3,0,,0,0,3,False,3.0,False,,4,1,medical,5.0,3
+1294,,laboratory technician,2,2,1,,0,0,3,True,4.0,False,married,2,3,,,6
+1295,,laboratory technician,2,3,10,,1,8,2,False,3.0,False,,17,2,,10.0,1
+1299,,manufacturing director,2,3,5,,0,4,2,,,False,,2,2,medical,20.0,5
+1300,,laboratory technician,2,3,1,,0,0,3,False,3.0,False,single,8,4,life sciences,,7
+1301,,healthcare representative,3,3,1,,0,0,2,True,3.0,True,,42,3,,12.0,3
+1304,,sales executive,2,3,0,,0,0,5,,3.0,False,,29,2,,8.0,5
+1306,,healthcare representative,2,3,1,,0,0,4,,3.0,False,,10,3,,18.0,3
+1313,sales,sales executive,2,3,5,,1,2,3,False,3.0,False,divorced,8,4,marketing,6.0,0
+1314,,research scientist,1,3,1,,0,0,2,False,4.0,False,,3,3,,1.0,1
+1321,,healthcare representative,2,3,1,,0,0,2,,3.0,False,divorced,2,4,,16.0,2
+1330,,research scientist,1,3,0,,0,0,6,,3.0,False,married,3,3,medical,0.0,1
+1331,,sales executive,2,2,1,,0,0,2,,,False,,16,4,marketing,9.0,4
+1332,,laboratory technician,1,3,3,,0,2,2,True,,False,divorced,1,3,life sciences,4.0,0
+1337,,manufacturing director,2,3,1,,0,0,2,False,4.0,False,divorced,8,3,,4.0,4
+1346,research & development,laboratory technician,1,3,1,,0,0,2,False,3.0,True,single,4,3,technical degree,1.0,1
+1347,,healthcare representative,2,2,5,,1,4,3,,3.0,False,,1,3,,6.0,0
+1348,,research scientist,1,3,1,,0,0,4,False,4.0,True,single,2,3,,7.0,4
+1353,,research scientist,1,2,1,,0,0,2,False,3.0,True,,16,3,medical,1.0,1
+1355,research & development,laboratory technician,1,3,1,,0,0,5,True,,False,married,9,3,,8.0,4
+1357,,sales executive,2,3,1,,0,0,1,False,3.0,False,,3,4,life sciences,19.0,8
+1368,,laboratory technician,2,1,1,,0,0,3,False,3.0,False,,29,3,,16.0,4
+1373,,research scientist,1,2,0,,0,0,5,,3.0,True,married,3,4,life sciences,1.0,0
+1376,,sales executive,2,3,0,,0,0,2,False,3.0,False,,2,4,,,5
+1377,,laboratory technician,1,3,1,,0,0,3,True,3.0,True,,17,2,life sciences,1.0,1
+1383,,research scientist,1,4,1,,0,0,5,,3.0,False,,20,3,technical degree,2.0,0
+1387,,research scientist,2,4,1,,0,0,2,False,3.0,False,married,34,4,medical,18.0,6
+1388,,laboratory technician,1,2,7,,7,7,6,False,3.0,False,single,6,2,medical,8.0,0
+1399,,sales representative,1,3,1,0.0,0,0,3,True,,False,,26,1,life sciences,1.0,1
+1401,,sales representative,1,3,1,,0,0,2,,3.0,False,married,13,2,,1.0,1
+1403,,research scientist,1,2,1,,0,0,2,False,3.0,False,,1,3,life sciences,1.0,1
+1409,,laboratory technician,1,3,1,,0,0,2,True,3.0,True,,14,3,,1.0,1
+1412,,sales executive,2,3,1,,0,0,5,True,3.0,False,single,1,4,life sciences,,6
+1414,,manager,5,2,1,,0,1,2,False,4.0,False,,9,2,,24.0,8
+1421,,laboratory technician,1,3,0,,0,0,5,True,3.0,False,,4,2,,7.0,7
+1422,,laboratory technician,1,3,1,,0,0,2,True,3.0,True,single,2,4,life sciences,1.0,1
+1426,,research scientist,1,3,10,,0,8,2,True,3.0,False,married,21,1,,10.0,1
+1428,sales,sales executive,2,1,0,,0,0,2,False,3.0,True,single,1,2,,10.0,6
+1433,,research scientist,1,2,1,,0,0,2,True,3.0,False,divorced,4,3,technical degree,,1
+1436,,research scientist,1,2,1,,0,0,4,False,3.0,True,,17,3,technical degree,6.0,9
+1437,,research director,5,2,1,,0,0,2,False,3.0,False,married,44,3,,34.0,8
+1438,,sales representative,1,3,1,,1,0,3,True,3.0,True,single,7,1,marketing,,1
+1440,,human resources,2,3,10,,4,7,4,True,3.0,False,divorced,8,2,other,19.0,2
+1441,,healthcare representative,2,4,0,,0,0,2,False,,False,married,13,3,,10.0,5
+1446,,healthcare representative,2,1,7,,1,6,3,False,,False,divorced,29,1,life sciences,11.0,8
+1449,,research scientist,1,2,1,,1,0,3,False,,True,,24,2,,1.0,1
+1452,research & development,research scientist,1,3,1,,0,0,2,True,4.0,True,single,7,1,life sciences,1.0,1
+1465,,human resources,1,3,2,,1,2,3,False,3.0,False,,2,3,,6.0,4
+1467,,manager,5,3,6,,1,3,3,False,3.0,False,,9,3,,,2
+1472,,sales executive,3,3,11,,4,1,5,True,3.0,False,married,1,1,,11.0,1
+1473,,manager,4,3,22,,0,4,2,True,3.0,False,,2,4,,,1
+1474,research & development,healthcare representative,3,4,18,,3,7,5,True,,False,,1,3,,19.0,0
+1475,,research director,3,2,11,,2,9,3,,3.0,False,,15,2,life sciences,,0
+1476,,research director,4,2,25,,3,9,3,True,3.0,False,,12,3,,,1
+1488,,manager,5,3,5,,4,2,2,False,3.0,False,divorced,4,4,,28.0,4
+1493,,sales executive,2,3,8,,5,7,3,,4.0,False,marreid,48,4,,10.0,4
+1495,research & development,manager,4,3,19,,11,16,3,True,3.0,False,,1,4,,22.0,2
+1510,,research scientist,1,2,2,,2,2,5,False,3.0,False,,9,4,life sciences,3.0,0
+1512,,laboratory technician,1,3,5,,0,4,2,,3.0,False,,1,2,,5.0,1
+1513,,healthcare representative,3,2,5,,0,0,2,False,4.0,False,single,7,3,other,,8
+1521,,laboratory technician,1,3,2,,0,2,5,,3.0,True,married,3,3,medical,6.0,5
+1522,,healthcare representative,4,3,20,,4,10,2,True,3.0,False,married,33,2,medical,21.0,0
+1531,,research scientist,2,4,7,,0,7,0,False,3.0,False,single,2,4,medical,,7
+1536,,sales executive,2,2,7,,1,7,2,True,3.0,False,divorced,10,1,,7.0,1
+1537,,research scientist,2,4,7,,6,7,2,True,3.0,False,divorced,6,3,medical,13.0,4
+1542,,sales executive,4,4,7,,7,7,0,True,3.0,False,married,6,3,life sciences,36.0,9
+1543,,laboratory technician,1,3,11,,6,7,2,,3.0,False,single,2,3,,12.0,0
+1545,,sales executive,2,3,8,,3,7,3,False,3.0,False,,2,3,other,,0
+1550,,human resources,3,3,9,,7,1,1,False,,False,,24,4,,16.0,2
+1556,,research director,3,3,7,,7,7,6,False,3.0,False,single,3,2,life sciences,10.0,3
+1558,research & development,research scientist,1,1,7,,3,7,4,True,3.0,True,,1,2,,10.0,7
+1564,,healthcare representative,2,4,8,,3,7,2,True,4.0,False,,2,2,medical,8.0,1
+1566,,research scientist,1,4,10,,0,7,3,False,4.0,False,married,23,2,,10.0,1
+1568,sales,sales executive,2,3,8,,7,5,2,False,4.0,False,,43,4,,8.0,1
+1569,,research scientist,1,2,8,,1,7,2,,3.0,True,married,5,2,medical,8.0,1
+1574,,healthcare representative,2,3,9,,8,5,2,,3.0,False,,12,3,medical,10.0,0
+1577,,sales executive,3,4,8,,0,7,3,True,3.0,False,single,13,5,,9.0,0
+1579,,manufacturing director,3,3,8,,0,7,3,False,3.0,False,,7,2,medical,,6
