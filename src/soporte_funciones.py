@@ -63,7 +63,7 @@ def new_columns(df):
         else:
             nuevas_columnas.append(nombre.lower())
 
-    return df.rename(columns=nuevas_columnas, inplace= True)
+    return df.rename(columns=dict(zip(df.columns, nuevas_columnas)), inplace= True)
 
 def unificacion(valor):
     if type(valor) == str:
@@ -76,6 +76,7 @@ def homog_df(df):
     
     for columna in df.columns:
         df[columna] = df[columna].apply(unificacion)
+   
 
    
 def limpieza(df):
@@ -92,7 +93,9 @@ def limpieza(df):
 
     for columna in lista_bool:
         df[columna] = df[columna].apply(true_false)
-
+    
     homog_df(df)
+
+   
     
     
