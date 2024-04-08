@@ -1,8 +1,9 @@
 import numpy as np
 import pandas as pd
 import re
+from scipy.stats import chi2_contingency
 
-
+# LIMPIEZA
 lista_bool = ['Attrition', 'RemoteWork', 'OverTime']
 lista_float =  ['employeenumber', 'PerformanceRating', 'TOTALWORKINGYEARS','DailyRate', 'WORKLIFEBALANCE', 'MonthlyIncome']
 
@@ -96,6 +97,44 @@ def limpieza(df):
     
     homog_df(df)
 
+
+
+# AB TESTING
+def df_testeo(df):
+    df2 = df.copy()
+    df2['grupo_edad'] = df['date_birth'].apply(lambda x: '+40' if x > 1983 else '-40')
+    df2['grupo_working_years'] = df['total_working_years'].apply(lambda x: '+20' if x > 20 else '-20')
+    df2['grupo_testeo'] = np.where(
+                            (df2['grupo_edad'] == '+40') & (df2['grupo_working_years'] == '-20'), 'A',
+                          np.where(
+                            (df2['grupo_edad'] == '-40') | (df2['grupo_working_years'] == '+20'), 'B', ''))
+    
+    return df2
+
+def chi2_contingency_test(contingency_table):
+
+    """
+    Realiza un test de chi-cuadrado de independencia en una tabla de contingencia.
+
+    Parámetros:
+    contingency_table : array_like
+        Una tabla de contingencia en forma de matriz, donde las filas representan las categorías de una variable
+        y las columnas representan las categorías de otra variable.
+
+    Devuelve:
+    chi2_statistic : float
+        Estadística chi-cuadrado del test.
+    p_value : float
+        Valor p del test.
+    degrees_of_freedom : int
+        Grados de libertad del test.
+    expected : ndarray
+        Matriz de valores esperados bajo la hipótesis nula de independencia.
+    """
+    chi2_stat, p_val, dof, expected = chi2_contingency(contingency_table)
+    
+    print("Estadística Chi-cuadrado:", chi2_stat)
+    print("Valor p:", p_val)
    
     
     
