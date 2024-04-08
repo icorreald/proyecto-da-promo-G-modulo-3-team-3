@@ -56,3 +56,17 @@ Podemos deducir que existe una diferencia generacional por lo que nos encontramo
 
 Grupo 18-40    1018 empleados
 Grupo 40-65     562 empleados 
+
+## Análisis Calificación rendimiento del empleado y el porcentaje de aumento salarial
+Los empleados con una calificación de 3 tienen incrementos salariales que generalmente son menores al 15%, mientras que los empleados con una calificación de 4 pueden recibir aumentos salariales que llegan hasta el 25%. Esta disparidad en los incrementos salariales podría ser un factor que contribuye a que algunos empleados decidan abandonar la empresa. De hecho, el 73% de los empleados que abandonaron la empresa tenían una calificación de 3.
+
+## Análisis  porcentaje de aumento salarial con el total de años en la compañia
+Observamos incrementos salariales que varían  un rango del 10% al 25%, . La gráfica presenta intervalos de confianza amplios, lo que sugiere una variabilidad significativa en los aumentos salariales. Además, es evidente que existen empleados con un número similar de años en la compañía que reciben incrementos salariales diferentes, lo que sugiere que otros factores, como el desempeño laboral o la negociación salarial, pueden estar influyendo en estas diferencias.
+
+
+ La interpretación de la gráfica de dispersión muestra que no hay una relación directa entre el aumento salarial y el número de años trabajados en la compañía. La forma casi horizontal de la distribución de puntos sugiere que, en general, el aumento salarial no aumenta consistentemente con la antigüedad en la empresa.
+
+## Análisis  calificacion rendimiento del empleado con el total de años en la compañia
+En la gráfica anterior, hemos observado que los empleados de categoría 4 recibían aumentos de salario más altos que los empleados de categoría 3. En esta grafica ambos grupos de empleados muestran un número de años en la empresa similar. Sin embargo, es notable que para el grupo de empleados de categoría 4, el intervalo de confianza es significativamente más amplio.Esta diferencia en la variabilidad de los años trabajados sugiere que, aunque ambos grupos tienen una antigüedad laboral comparable, existe una mayor diversidad en la experiencia laboral en esta empresa de los empleados de categoría 4. 
+
+
