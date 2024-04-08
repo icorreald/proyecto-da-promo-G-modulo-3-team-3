@@ -18,7 +18,7 @@ df.to_csv('csv-archivos/etl_data.csv')
 # creación de la bbdd y carga de los datos
 from src import soporte_bbdd as bbdd
 from src import soporte_query as query
-%%
+
 bbdd.creacion_bbdd(query.query_schema, 'AlumnaAdalab')
 bbdd.creacion_bbdd(query.employees, 'AlumnaAdalab', 'abc_company')
 bbdd.creacion_bbdd(query.employee_details,'AlumnaAdalab', 'abc_company')
