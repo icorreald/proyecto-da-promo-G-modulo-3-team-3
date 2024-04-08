@@ -31,3 +31,28 @@ Como casos particulares destacamos:
 ![Distribución del nivel de satisfacción del empleado con su trabajo (género)](../imagenes/satisfaccion6.png)
 
 ![Distribución del satisfacción en las relaciones interpersonales (género)](../imagenes/satisfaccion7.png)
+
+
+## Análisis sobre la distribución por edad y género 
+
+La mayoría de los empleados que trabajan en la empresa son hombres, para romper con la brecha de género aparente podríamos fomentar la contratacion de mujeres. 
+
+Hombres    60.19%
+Mujeres    39.81%
+
+En lo que respecta el teletrabajo , el porcentaje más alto lo encontramos en hombres , podría realizarse un estudio para saber cuales son las causas de la diferencia y establecer medidas del tipo que corresponda si son oportunas para igual las condiciones. 
+
+Mujeres    37.26%
+Hombres    62.74%
+
+Y por último , el porcentaje de hombres que han dejado los hombres la empresa varía muy ligeramente en comparación al porcentaje de las mujeres. 
+
+Porcentaje de hombres que han dejado la empresa: 16.82%
+Porcentaje de mujeres que han dejado la empresa: 15.10%
+
+
+Respecto a las edades, nos encontramos con trabajadores de entre los 19 y 61 años donde predomina el rango de edad entre los 18 y 40 en este caso. 
+Podemos deducir que existe una diferencia generacional por lo que nos encontramos una experiencia laboral variada, donde los jóvenes tienen más fuerza.
+
+Grupo 18-40    1018 empleados
+Grupo 40-65     562 empleados 
