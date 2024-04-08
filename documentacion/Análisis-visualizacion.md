@@ -82,4 +82,16 @@ Observamos incrementos salariales que varían  un rango del 10% al 25%, . La gr�
 ## Análisis  calificacion rendimiento del empleado con el total de años en la compañia
 En la gráfica anterior, hemos observado que los empleados de categoría 4 recibían aumentos de salario más altos que los empleados de categoría 3. En esta grafica ambos grupos de empleados muestran un número de años en la empresa similar. Sin embargo, es notable que para el grupo de empleados de categoría 4, el intervalo de confianza es significativamente más amplio.Esta diferencia en la variabilidad de los años trabajados sugiere que, aunque ambos grupos tienen una antigüedad laboral comparable, existe una mayor diversidad en la experiencia laboral en esta empresa de los empleados de categoría 4. 
 
+## Análisis sobre el salario
 
+![Distribución del salario](../imagenes/salario.png)
+
+- Se aprecia en la empresa una distribución equitativa del salario en cuanto a género se refiere.
+
+- Los empleados más jóvenes (de 18 a 40 años) reciben sueldos más altos.
+
+- Aquellos que han trabajado más de veinte años en la empresa reciben sueldos más altos que quienes llevan menos tiempo.
+
+![Distribución de las subidas salariales](../imagenes/subida_salarial.png)
+
+- El porcentaje de subida salarial no parece ir en función de la antigüedad, sino de la performance.
