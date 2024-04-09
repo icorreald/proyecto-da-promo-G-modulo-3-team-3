@@ -1,3 +1,5 @@
+# Visualizaciones
+
 ## Análisis de los datos sobre satisfacción:
 
 Tras un análisis y varias visualizaciones, podemos afirmar que **se repite un patron en la satisfacción de los empleados**, tanto en tipos de satisfacción como en distinciones por diferentes grupos demográficos.
@@ -95,3 +97,13 @@ En la gráfica anterior, hemos observado que los empleados de categoría 4 recib
 ![Distribución de las subidas salariales](../imagenes/subida_salarial.png)
 
 - El porcentaje de subida salarial no parece ir en función de la antigüedad, sino de la performance.
+
+# A/B testing y conclusiones
+
+Tras el análisis de datos realizado se ha comprobado mediante A/B testing si existe una diferencia significativa que afecte a los empleados mayores de 40 años y con menos de 20 años de antiguedad en la empresa.
+
+- Grupo A : empleados mayores de 40 años con menos de 20 años de antigüedad en la empresa.
+- Grupo B : Resto de empleados
+
+Siendo la HO que no existe ninguna diferencia entre grupoA y grupo B y la H1 (Hipótesis alternativa) que sí existe diferencia, hemos podido comprobar, mediante la prueba de Chi Cuadrado que rechazamos la H0, por lo que **sí existe diferencia y recomendamos a la empresa implantar estrategias para solventarla**.
+

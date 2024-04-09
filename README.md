@@ -13,9 +13,11 @@ El repositorio está organizado en varias carpetas:
 
 - **Imágenes**: Contiene los gráficos y visualizaciones creados durante el análisis de datos.
 - **CSV**: Archivos CSV originales y limpios utilizados en el análisis.
-- **Notebooks**: Contiene los archivos de código en formato de Jupyter Notebook.
+- **Notebooks**: Contiene el archivo con el código en formato de Jupyter Notebook de la fase de visualización.
 - **SQL**: Contiene el código SQL utilizado para crear la base de datos y cargar los datos en MySql. connector.
 - **Documentación**: Contiene la explicación del trabajo realizado y las conclusiones de una manera resumida y sin incluir código.
+- **Src**: Contiene los archivos .py de soporte para el archivo ETL
+- **ETL.py** : Archivo con el código ejecutable de las fases de limpieza, creación y carga de datos en sql y A/B Testing.
 
 ## Tecnologías Utilizadas
 - Python: Se utilizó Python como lenguaje principal de programación.
